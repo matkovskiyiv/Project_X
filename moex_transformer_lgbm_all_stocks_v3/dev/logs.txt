@@ -1,0 +1,2102 @@
+2025-02-04 16:14:25 Start prepare data to lgbm
+2025-02-04 16:16:47 Start lgbm predicting
+2025-02-04 16:16:47 End lgbm predicting
+2025-02-04 16:38:48 Start sending msg
+2025-02-04 16:38:48 Failed sending msg (name 'telegram_bot_sendtext' is not defined)
+2025-02-04 16:38:48 End sending msg
+2025-02-04 16:40:06 Start sending msg
+2025-02-04 16:40:06 End sending msg
+2025-02-04 16:41:03 Start sending msg
+2025-02-04 16:41:03 End sending msg
+2025-02-04 16:45:04 Start sending msg
+2025-02-04 16:45:05 End sending msg
+2025-02-04 16:53:53 Start sending msg
+2025-02-04 16:53:53 End sending msg
+2025-02-04 16:54:18 Start sending msg
+2025-02-04 16:54:19 End sending msg
+2025-02-04 16:54:47 Start sending msg
+2025-02-04 16:54:47 End sending msg
+2025-02-04 17:01:08 Start loading hourly data
+2025-02-04 17:01:56 End loading hourly data
+2025-02-04 17:01:56 Start preproc hourly data
+2025-02-04 17:01:57 AFLT: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 IRAO: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MVID: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 OGKB: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SPBE: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MTLRP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SFIN: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MSNG: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 FEES: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 LKOH: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 FESH: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 LENT: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MDMG: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 NKNCP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 VKCO: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 UPRO: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SELG: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SGZH: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 ENPG: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 YAKG: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 GEMC: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 NMTP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 PLZL: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 TATN: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 AFKS: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 GMKN: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 LIFE: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 RNFT: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 YDEX: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 UWGN: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 ABRD: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 HYDR: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 ABIO: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 WUSH: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 RTKMP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 NLMK: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 TATNP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 BLNG: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 ALRS: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 VSMO: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 TRNFP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MGNT: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 RENI: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MTLR: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 TGKA: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MSRS: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 HEAD: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 RUAL: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MRKV: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SIBN: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SNGS: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 NVTK: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 RASP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 VTBR: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 PHOR: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 T: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MRKU: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 TRMK: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MOEX: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SBERP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 CHMF: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 RTKM: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SMLT: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 LNZLP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MRKC: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MRKP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 UNAC: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 GAZP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 ROSN: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 BELU: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 FLOT: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 PIKK: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 LSNGP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SVAV: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 POSI: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SNGSP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MTSS: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 MAGN: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 SBER: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 BANEP: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 BSPB: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 AQUA: failed to preproc hourly data (Error join tmos)
+2025-02-04 17:01:57 End preproc hourly data
+2025-02-04 17:01:57 Start prepare data to lgbm
+2025-02-04 17:01:57 AFLT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/AFLT.pkl')
+2025-02-04 17:01:57 IRAO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/IRAO.pkl')
+2025-02-04 17:01:57 MVID: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MVID.pkl')
+2025-02-04 17:01:57 OGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/OGKB.pkl')
+2025-02-04 17:01:57 SPBE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SPBE.pkl')
+2025-02-04 17:01:57 MTLRP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MTLRP.pkl')
+2025-02-04 17:01:57 SFIN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SFIN.pkl')
+2025-02-04 17:01:57 MSNG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MSNG.pkl')
+2025-02-04 17:01:57 FEES: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/FEES.pkl')
+2025-02-04 17:01:57 LKOH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/LKOH.pkl')
+2025-02-04 17:01:57 FESH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/FESH.pkl')
+2025-02-04 17:01:58 LENT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/LENT.pkl')
+2025-02-04 17:01:58 MDMG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MDMG.pkl')
+2025-02-04 17:01:58 NKNCP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/NKNCP.pkl')
+2025-02-04 17:01:58 VKCO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/VKCO.pkl')
+2025-02-04 17:01:58 UPRO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/UPRO.pkl')
+2025-02-04 17:01:58 SELG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SELG.pkl')
+2025-02-04 17:01:58 SGZH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SGZH.pkl')
+2025-02-04 17:01:59 ENPG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/ENPG.pkl')
+2025-02-04 17:01:59 YAKG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/YAKG.pkl')
+2025-02-04 17:01:59 GEMC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/GEMC.pkl')
+2025-02-04 17:02:01 NMTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/NMTP.pkl')
+2025-02-04 17:02:01 PLZL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/PLZL.pkl')
+2025-02-04 17:02:01 TATN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/TATN.pkl')
+2025-02-04 17:02:01 AFKS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/AFKS.pkl')
+2025-02-04 17:02:02 GMKN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/GMKN.pkl')
+2025-02-04 17:02:03 LIFE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/LIFE.pkl')
+2025-02-04 17:02:03 RNFT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/RNFT.pkl')
+2025-02-04 17:02:03 YDEX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/YDEX.pkl')
+2025-02-04 17:02:03 UWGN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/UWGN.pkl')
+2025-02-04 17:02:03 ABRD: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/ABRD.pkl')
+2025-02-04 17:02:03 HYDR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/HYDR.pkl')
+2025-02-04 17:02:03 ABIO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/ABIO.pkl')
+2025-02-04 17:02:03 WUSH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/WUSH.pkl')
+2025-02-04 17:02:03 RTKMP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/RTKMP.pkl')
+2025-02-04 17:02:04 NLMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/NLMK.pkl')
+2025-02-04 17:02:04 TATNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/TATNP.pkl')
+2025-02-04 17:02:04 BLNG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/BLNG.pkl')
+2025-02-04 17:02:04 ALRS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/ALRS.pkl')
+2025-02-04 17:02:04 VSMO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/VSMO.pkl')
+2025-02-04 17:02:05 TRNFP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/TRNFP.pkl')
+2025-02-04 17:02:05 MGNT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MGNT.pkl')
+2025-02-04 17:02:05 RENI: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/RENI.pkl')
+2025-02-04 17:02:06 MTLR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MTLR.pkl')
+2025-02-04 17:02:06 TGKA: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/TGKA.pkl')
+2025-02-04 17:02:06 MSRS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MSRS.pkl')
+2025-02-04 17:02:06 HEAD: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/HEAD.pkl')
+2025-02-04 17:02:06 RUAL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/RUAL.pkl')
+2025-02-04 17:02:06 MRKV: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MRKV.pkl')
+2025-02-04 17:02:07 SIBN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SIBN.pkl')
+2025-02-04 17:02:07 SNGS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SNGS.pkl')
+2025-02-04 17:02:08 NVTK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/NVTK.pkl')
+2025-02-04 17:02:08 RASP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/RASP.pkl')
+2025-02-04 17:02:08 VTBR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/VTBR.pkl')
+2025-02-04 17:02:08 PHOR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/PHOR.pkl')
+2025-02-04 17:02:08 T: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/T.pkl')
+2025-02-04 17:02:09 MRKU: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MRKU.pkl')
+2025-02-04 17:02:09 TRMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/TRMK.pkl')
+2025-02-04 17:02:09 MOEX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MOEX.pkl')
+2025-02-04 17:02:09 SBERP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SBERP.pkl')
+2025-02-04 17:02:09 CHMF: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/CHMF.pkl')
+2025-02-04 17:02:09 RTKM: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/RTKM.pkl')
+2025-02-04 17:02:09 SMLT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SMLT.pkl')
+2025-02-04 17:02:09 LNZLP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/LNZLP.pkl')
+2025-02-04 17:02:09 MRKC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MRKC.pkl')
+2025-02-04 17:02:09 MRKP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MRKP.pkl')
+2025-02-04 17:02:09 UNAC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/UNAC.pkl')
+2025-02-04 17:02:09 GAZP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/GAZP.pkl')
+2025-02-04 17:02:09 ROSN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/ROSN.pkl')
+2025-02-04 17:02:09 BELU: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/BELU.pkl')
+2025-02-04 17:02:10 FLOT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/FLOT.pkl')
+2025-02-04 17:02:10 PIKK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/PIKK.pkl')
+2025-02-04 17:02:10 LSNGP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/LSNGP.pkl')
+2025-02-04 17:02:10 SVAV: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SVAV.pkl')
+2025-02-04 17:02:10 POSI: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/POSI.pkl')
+2025-02-04 17:02:11 SNGSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SNGSP.pkl')
+2025-02-04 17:02:11 MTSS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MTSS.pkl')
+2025-02-04 17:02:11 MAGN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/MAGN.pkl')
+2025-02-04 17:02:11 SBER: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/SBER.pkl')
+2025-02-04 17:02:11 BANEP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/BANEP.pkl')
+2025-02-04 17:02:11 BSPB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/BSPB.pkl')
+2025-02-04 17:02:11 AQUA: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_17/AQUA.pkl')
+2025-02-04 17:02:12 End prepare data to lgbm
+2025-02-04 17:02:12 Start lgbm predicting
+2025-02-04 17:02:12 End lgbm predicting
+2025-02-04 17:02:12 Start sending msg
+2025-02-04 17:02:12 End sending msg
+2025-02-04 17:10:04 Start preproc hourly data
+2025-02-04 17:10:05 End preproc hourly data
+2025-02-04 17:10:05 Start prepare data to lgbm
+2025-02-04 17:10:47 End prepare data to lgbm
+2025-02-04 17:10:47 Start lgbm predicting
+2025-02-04 17:10:47 End lgbm predicting
+2025-02-04 17:10:47 Start sending msg
+2025-02-04 17:10:47 End sending msg
+2025-02-04 18:01:06 Start loading hourly data
+2025-02-04 18:02:06 End loading hourly data
+2025-02-04 18:02:06 Start preproc hourly data
+2025-02-04 18:02:07 End preproc hourly data
+2025-02-04 18:02:07 Start prepare data to lgbm
+2025-02-04 18:02:49 End prepare data to lgbm
+2025-02-04 18:02:49 Start lgbm predicting
+2025-02-04 18:02:49 End lgbm predicting
+2025-02-04 18:02:49 Start sending msg
+2025-02-04 18:02:49 End sending msg
+2025-02-04 19:01:02 Start loading hourly data
+2025-02-04 19:01:58 End loading hourly data
+2025-02-04 19:01:58 Start preproc hourly data
+2025-02-04 19:01:59 End preproc hourly data
+2025-02-04 19:01:59 Start prepare data to lgbm
+2025-02-04 19:02:40 End prepare data to lgbm
+2025-02-04 19:02:40 Start lgbm predicting
+2025-02-04 19:02:40 End lgbm predicting
+2025-02-04 19:02:40 Start sending msg
+2025-02-04 19:02:41 End sending msg
+2025-02-04 20:01:05 Start loading hourly data
+2025-02-04 20:02:28 End loading hourly data
+2025-02-04 20:02:28 Start preproc hourly data
+2025-02-04 20:02:28 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-04 20:02:28 CNTL: failed to preproc hourly data (Error time_data)
+2025-02-04 20:02:28 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-04 20:02:28 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-04 20:02:29 KLSB: failed to preproc hourly data (Error time_data)
+2025-02-04 20:02:29 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-04 20:02:29 TTLK: failed to preproc hourly data (Error time_data)
+2025-02-04 20:02:29 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-04 20:02:29 End preproc hourly data
+2025-02-04 20:02:29 Start prepare data to lgbm
+2025-02-04 20:02:36 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_20/AKRN.pkl')
+2025-02-04 20:02:39 CNTL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_20/CNTL.pkl')
+2025-02-04 20:02:39 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_20/KRKNP.pkl')
+2025-02-04 20:02:50 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_20/TGKB.pkl')
+2025-02-04 20:02:53 KLSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_20/KLSB.pkl')
+2025-02-04 20:02:54 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_20/KAZTP.pkl')
+2025-02-04 20:02:55 TTLK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_20/TTLK.pkl')
+2025-02-04 20:02:58 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_20/VEON-RX.pkl')
+2025-02-04 20:03:07 End prepare data to lgbm
+2025-02-04 20:03:07 Start lgbm predicting
+2025-02-04 20:03:07 End lgbm predicting
+2025-02-04 20:03:07 Start sending msg
+2025-02-04 20:03:08 End sending msg
+2025-02-04 21:01:01 Start loading hourly data
+2025-02-04 21:02:15 End loading hourly data
+2025-02-04 21:02:15 Start preproc hourly data
+2025-02-04 21:02:15 KROT: failed to preproc hourly data (Error time_data)
+2025-02-04 21:02:15 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-04 21:02:15 RKKE: failed to preproc hourly data (Error time_data)
+2025-02-04 21:02:15 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-04 21:02:15 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-04 21:02:15 DVEC: failed to preproc hourly data (Error time_data)
+2025-02-04 21:02:15 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-04 21:02:15 End preproc hourly data
+2025-02-04 21:02:15 Start prepare data to lgbm
+2025-02-04 21:02:19 KROT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_21/KROT.pkl')
+2025-02-04 21:02:22 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_21/AKRN.pkl')
+2025-02-04 21:02:23 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_21/RKKE.pkl')
+2025-02-04 21:02:25 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_21/KRKNP.pkl')
+2025-02-04 21:02:36 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_21/TGKB.pkl')
+2025-02-04 21:02:40 DVEC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_21/DVEC.pkl')
+2025-02-04 21:02:45 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_21/VEON-RX.pkl')
+2025-02-04 21:02:54 End prepare data to lgbm
+2025-02-04 21:02:54 Start lgbm predicting
+2025-02-04 21:02:54 End lgbm predicting
+2025-02-04 21:02:54 Start sending msg
+2025-02-04 21:02:54 End sending msg
+2025-02-04 22:01:08 Start loading hourly data
+2025-02-04 22:02:25 End loading hourly data
+2025-02-04 22:02:25 Start preproc hourly data
+2025-02-04 22:02:25 RKKE: failed to preproc hourly data (Error time_data)
+2025-02-04 22:02:25 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-04 22:02:25 KLSB: failed to preproc hourly data (Error time_data)
+2025-02-04 22:02:25 TTLK: failed to preproc hourly data (Error time_data)
+2025-02-04 22:02:25 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-04 22:02:26 End preproc hourly data
+2025-02-04 22:02:26 Start prepare data to lgbm
+2025-02-04 22:02:34 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_22/RKKE.pkl')
+2025-02-04 22:02:47 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_22/TGKB.pkl')
+2025-02-04 22:02:50 KLSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_22/KLSB.pkl')
+2025-02-04 22:02:53 TTLK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_22/TTLK.pkl')
+2025-02-04 22:02:56 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_22/VEON-RX.pkl')
+2025-02-04 22:03:05 End prepare data to lgbm
+2025-02-04 22:03:05 Start lgbm predicting
+2025-02-04 22:03:05 End lgbm predicting
+2025-02-04 22:03:05 Start sending msg
+2025-02-04 22:03:06 End sending msg
+2025-02-04 23:01:09 Start loading hourly data
+2025-02-04 23:01:57 End loading hourly data
+2025-02-04 23:01:57 Start preproc hourly data
+2025-02-04 23:01:58 PMSBP: failed to preproc hourly data (Error time_data)
+2025-02-04 23:01:58 RKKE: failed to preproc hourly data (Error time_data)
+2025-02-04 23:01:58 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-04 23:01:58 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-04 23:01:58 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-04 23:01:58 End preproc hourly data
+2025-02-04 23:01:58 Start prepare data to lgbm
+2025-02-04 23:02:06 PMSBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_23/PMSBP.pkl')
+2025-02-04 23:02:06 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_23/RKKE.pkl')
+2025-02-04 23:02:19 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_23/TGKB.pkl')
+2025-02-04 23:02:23 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_23/KAZTP.pkl')
+2025-02-04 23:02:28 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-04_23/VEON-RX.pkl')
+2025-02-04 23:02:37 End prepare data to lgbm
+2025-02-04 23:02:37 Start lgbm predicting
+2025-02-04 23:02:37 End lgbm predicting
+2025-02-04 23:02:37 Start sending msg
+2025-02-04 23:02:38 End sending msg
+2025-02-05 10:01:04 Start loading figi data
+2025-02-05 10:01:06 End loading figi data
+2025-02-05 10:01:06 Start loading daily data
+2025-02-05 10:01:36 End loading daily data
+2025-02-05 10:01:36 Start preproc daily data
+2025-02-05 10:01:36 KROT: failed to preproc daily data (Error time_data)
+2025-02-05 10:01:36 CHMK: failed to preproc daily data (Error time_data)
+2025-02-05 10:01:36 CNTL: failed to preproc daily data (Error time_data)
+2025-02-05 10:01:36 VRSB: failed to preproc daily data (Error time_data)
+2025-02-05 10:01:36 End preproc daily data
+2025-02-05 10:03:06 Start loading hourly data
+2025-02-05 10:03:56 End loading hourly data
+2025-02-05 10:03:56 Start preproc hourly data
+2025-02-05 10:03:56 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-05 10:03:56 End preproc hourly data
+2025-02-05 10:03:56 Start prepare data to lgbm
+2025-02-05 10:04:00 KROT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-05/KROT.pkl')
+2025-02-05 10:04:03 CHMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-05/CHMK.pkl')
+2025-02-05 10:04:06 CNTL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-05/CNTL.pkl')
+2025-02-05 10:04:06 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-05_10/KRKNP.pkl')
+2025-02-05 10:04:10 VRSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-05/VRSB.pkl')
+2025-02-05 10:04:36 End prepare data to lgbm
+2025-02-05 10:04:36 Start lgbm predicting
+2025-02-05 10:04:36 End lgbm predicting
+2025-02-05 10:04:36 Start sending msg
+2025-02-05 10:04:36 End sending msg
+2025-02-05 10:50:09 Start loading figi data
+2025-02-05 10:50:11 End loading figi data
+2025-02-05 10:50:11 Start loading daily data
+2025-02-05 10:50:41 End loading daily data
+2025-02-05 10:50:41 Start preproc daily data
+2025-02-05 10:50:42 End preproc daily data
+2025-02-05 10:50:52 Start loading figi data
+2025-02-05 10:50:54 End loading figi data
+2025-02-05 10:50:54 Start loading daily data
+2025-02-05 10:51:24 End loading daily data
+2025-02-05 10:51:24 Start preproc daily data
+2025-02-05 10:51:24 End preproc daily data
+2025-02-05 11:01:05 Start loading hourly data
+2025-02-05 11:01:56 End loading hourly data
+2025-02-05 11:01:56 Start preproc hourly data
+2025-02-05 11:01:57 End preproc hourly data
+2025-02-05 11:01:57 Start prepare data to lgbm
+2025-02-05 11:02:38 End prepare data to lgbm
+2025-02-05 11:02:38 Start lgbm predicting
+2025-02-05 11:02:38 End lgbm predicting
+2025-02-05 11:02:38 Start sending msg
+2025-02-05 11:02:38 End sending msg
+2025-02-05 12:01:02 Start loading hourly data
+2025-02-05 12:01:44 End loading hourly data
+2025-02-05 12:01:44 Start preproc hourly data
+2025-02-05 12:01:45 End preproc hourly data
+2025-02-05 12:01:45 Start prepare data to lgbm
+2025-02-05 12:02:30 End prepare data to lgbm
+2025-02-05 12:02:30 Start lgbm predicting
+2025-02-05 12:02:30 End lgbm predicting
+2025-02-05 12:02:30 Start sending msg
+2025-02-05 12:02:30 End sending msg
+2025-02-05 13:01:03 Start loading hourly data
+2025-02-05 13:01:57 End loading hourly data
+2025-02-05 13:01:57 Start preproc hourly data
+2025-02-05 13:01:57 End preproc hourly data
+2025-02-05 13:01:57 Start prepare data to lgbm
+2025-02-05 13:02:39 End prepare data to lgbm
+2025-02-05 13:02:39 Start lgbm predicting
+2025-02-05 13:02:39 End lgbm predicting
+2025-02-05 13:02:39 Start sending msg
+2025-02-05 13:02:39 End sending msg
+2025-02-05 14:01:02 Start loading hourly data
+2025-02-05 14:01:51 End loading hourly data
+2025-02-05 14:01:51 Start preproc hourly data
+2025-02-05 14:01:52 End preproc hourly data
+2025-02-05 14:01:52 Start prepare data to lgbm
+2025-02-05 14:02:34 End prepare data to lgbm
+2025-02-05 14:02:34 Start lgbm predicting
+2025-02-05 14:02:34 End lgbm predicting
+2025-02-05 14:02:34 Start sending msg
+2025-02-05 14:02:35 End sending msg
+2025-02-05 15:01:08 Start loading hourly data
+2025-02-05 15:02:01 End loading hourly data
+2025-02-05 15:02:01 Start preproc hourly data
+2025-02-05 15:02:01 End preproc hourly data
+2025-02-05 15:02:01 Start prepare data to lgbm
+2025-02-05 15:02:43 End prepare data to lgbm
+2025-02-05 15:02:43 Start lgbm predicting
+2025-02-05 15:02:43 End lgbm predicting
+2025-02-05 15:02:43 Start sending msg
+2025-02-05 15:02:43 End sending msg
+2025-02-05 16:01:07 Start loading hourly data
+2025-02-05 16:02:00 End loading hourly data
+2025-02-05 16:02:00 Start preproc hourly data
+2025-02-05 16:02:00 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-05 16:02:00 End preproc hourly data
+2025-02-05 16:02:00 Start prepare data to lgbm
+2025-02-05 16:02:11 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-05_16/KRKNP.pkl')
+2025-02-05 16:02:41 End prepare data to lgbm
+2025-02-05 16:02:41 Start lgbm predicting
+2025-02-05 16:02:41 End lgbm predicting
+2025-02-05 16:02:41 Start sending msg
+2025-02-05 16:02:42 End sending msg
+2025-02-05 17:01:05 Start loading hourly data
+2025-02-05 17:02:00 End loading hourly data
+2025-02-05 17:02:00 Start preproc hourly data
+2025-02-05 17:02:00 End preproc hourly data
+2025-02-05 17:02:00 Start prepare data to lgbm
+2025-02-05 17:02:42 End prepare data to lgbm
+2025-02-05 17:02:42 Start lgbm predicting
+2025-02-05 17:02:42 End lgbm predicting
+2025-02-05 17:02:42 Start sending msg
+2025-02-05 17:02:42 End sending msg
+2025-02-05 18:01:05 Start loading hourly data
+2025-02-05 18:01:57 End loading hourly data
+2025-02-05 18:01:57 Start preproc hourly data
+2025-02-05 18:01:57 End preproc hourly data
+2025-02-05 18:01:57 Start prepare data to lgbm
+2025-02-05 18:02:40 End prepare data to lgbm
+2025-02-05 18:02:40 Start lgbm predicting
+2025-02-05 18:02:40 End lgbm predicting
+2025-02-05 18:02:40 Start sending msg
+2025-02-05 18:02:40 End sending msg
+2025-02-05 22:01:09 Start loading hourly data
+2025-02-05 22:02:07 End loading hourly data
+2025-02-05 22:02:07 Start preproc hourly data
+2025-02-05 22:02:07 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-05 22:02:07 RKKE: failed to preproc hourly data (Error time_data)
+2025-02-05 22:02:07 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-05 22:02:07 UNKL: failed to preproc hourly data (Error time_data)
+2025-02-05 22:02:07 MGTSP: failed to preproc hourly data (Error time_data)
+2025-02-05 22:02:07 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-05 22:02:07 TGKBP: failed to preproc hourly data (Error time_data)
+2025-02-05 22:02:07 End preproc hourly data
+2025-02-05 22:02:07 Start prepare data to lgbm
+2025-02-05 22:02:14 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-05_22/AKRN.pkl')
+2025-02-05 22:02:16 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-05_22/RKKE.pkl')
+2025-02-05 22:02:18 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-05_22/KRKNP.pkl')
+2025-02-05 22:02:19 UNKL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-05_22/UNKL.pkl')
+2025-02-05 22:02:29 MGTSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-05_22/MGTSP.pkl')
+2025-02-05 22:02:37 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-05_22/VEON-RX.pkl')
+2025-02-05 22:02:42 TGKBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-05_22/TGKBP.pkl')
+2025-02-05 22:02:46 End prepare data to lgbm
+2025-02-05 22:02:46 Start lgbm predicting
+2025-02-05 22:02:46 End lgbm predicting
+2025-02-05 22:02:46 Start sending msg
+2025-02-05 22:02:47 End sending msg
+2025-02-05 23:01:47 Start loading hourly data
+2025-02-06 19:27:49 Start loading figi data
+2025-02-06 19:27:53 End loading figi data
+2025-02-06 19:27:53 Start loading daily data
+2025-02-06 19:28:27 End loading daily data
+2025-02-06 19:28:27 Start preproc daily data
+2025-02-06 19:28:28 End preproc daily data
+2025-02-06 20:01:09 Start loading hourly data
+2025-02-06 20:02:02 End loading hourly data
+2025-02-06 20:02:02 Start preproc hourly data
+2025-02-06 20:02:02 NKNCP: failed to preproc hourly data (Error time_data)
+2025-02-06 20:02:02 RKKE: failed to preproc hourly data (Error time_data)
+2025-02-06 20:02:02 MRKZ: failed to preproc hourly data (Error time_data)
+2025-02-06 20:02:02 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-06 20:02:02 CNTLP: failed to preproc hourly data (Error time_data)
+2025-02-06 20:02:02 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-06 20:02:02 KAZT: failed to preproc hourly data (Error time_data)
+2025-02-06 20:02:02 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-06 20:02:02 End preproc hourly data
+2025-02-06 20:02:02 Start prepare data to lgbm
+2025-02-06 20:02:07 NKNCP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_20/NKNCP.pkl')
+2025-02-06 20:02:11 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_20/RKKE.pkl')
+2025-02-06 20:02:11 MRKZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_20/MRKZ.pkl')
+2025-02-06 20:02:12 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_20/KRKNP.pkl')
+2025-02-06 20:02:20 CNTLP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_20/CNTLP.pkl')
+2025-02-06 20:02:27 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_20/KAZTP.pkl')
+2025-02-06 20:02:30 KAZT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_20/KAZT.pkl')
+2025-02-06 20:02:31 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_20/VEON-RX.pkl')
+2025-02-06 20:02:41 End prepare data to lgbm
+2025-02-06 20:02:41 Start lgbm predicting
+2025-02-06 20:02:41 End lgbm predicting
+2025-02-06 20:02:41 Start sending msg
+2025-02-06 20:02:41 End sending msg
+2025-02-06 21:01:05 Start loading hourly data
+2025-02-06 21:02:02 End loading hourly data
+2025-02-06 21:02:02 Start preproc hourly data
+2025-02-06 21:02:02 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-06 21:02:02 PMSBP: failed to preproc hourly data (Error time_data)
+2025-02-06 21:02:02 RKKE: failed to preproc hourly data (Error time_data)
+2025-02-06 21:02:02 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-06 21:02:02 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-06 21:02:03 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-06 21:02:03 End preproc hourly data
+2025-02-06 21:02:03 Start prepare data to lgbm
+2025-02-06 21:02:10 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_21/AKRN.pkl')
+2025-02-06 21:02:11 PMSBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_21/PMSBP.pkl')
+2025-02-06 21:02:11 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_21/RKKE.pkl')
+2025-02-06 21:02:13 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_21/KRKNP.pkl')
+2025-02-06 21:02:28 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_21/KAZTP.pkl')
+2025-02-06 21:02:32 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_21/VEON-RX.pkl')
+2025-02-06 21:02:42 End prepare data to lgbm
+2025-02-06 21:02:42 Start lgbm predicting
+2025-02-06 21:02:42 End lgbm predicting
+2025-02-06 21:02:42 Start sending msg
+2025-02-06 21:02:42 End sending msg
+2025-02-06 22:01:06 Start loading hourly data
+2025-02-06 22:02:10 End loading hourly data
+2025-02-06 22:02:10 Start preproc hourly data
+2025-02-06 22:02:10 KROT: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:10 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:10 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:10 LNZL: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:10 VRSB: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:11 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:11 MGTSP: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:11 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:11 MRKU: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:11 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-06 22:02:11 End preproc hourly data
+2025-02-06 22:02:11 Start prepare data to lgbm
+2025-02-06 22:02:15 KROT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/KROT.pkl')
+2025-02-06 22:02:17 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/AKRN.pkl')
+2025-02-06 22:02:21 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/KRKNP.pkl')
+2025-02-06 22:02:23 LNZL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/LNZL.pkl')
+2025-02-06 22:02:24 VRSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/VRSB.pkl')
+2025-02-06 22:02:31 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/TGKB.pkl')
+2025-02-06 22:02:32 MGTSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/MGTSP.pkl')
+2025-02-06 22:02:35 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/KAZTP.pkl')
+2025-02-06 22:02:38 MRKU: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/MRKU.pkl')
+2025-02-06 22:02:39 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_22/VEON-RX.pkl')
+2025-02-06 22:02:49 End prepare data to lgbm
+2025-02-06 22:02:49 Start lgbm predicting
+2025-02-06 22:02:49 End lgbm predicting
+2025-02-06 22:02:49 Start sending msg
+2025-02-06 22:02:49 End sending msg
+2025-02-06 23:01:02 Start loading hourly data
+2025-02-06 23:02:00 End loading hourly data
+2025-02-06 23:02:00 Start preproc hourly data
+2025-02-06 23:02:00 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-06 23:02:00 YAKG: failed to preproc hourly data (Error time_data)
+2025-02-06 23:02:00 UNKL: failed to preproc hourly data (Error time_data)
+2025-02-06 23:02:00 VRSB: failed to preproc hourly data (Error time_data)
+2025-02-06 23:02:00 GCHE: failed to preproc hourly data (Error time_data)
+2025-02-06 23:02:00 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-06 23:02:00 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-06 23:02:00 End preproc hourly data
+2025-02-06 23:02:00 Start prepare data to lgbm
+2025-02-06 23:02:07 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_23/AKRN.pkl')
+2025-02-06 23:02:08 YAKG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_23/YAKG.pkl')
+2025-02-06 23:02:12 UNKL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_23/UNKL.pkl')
+2025-02-06 23:02:14 VRSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_23/VRSB.pkl')
+2025-02-06 23:02:19 GCHE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_23/GCHE.pkl')
+2025-02-06 23:02:25 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_23/KAZTP.pkl')
+2025-02-06 23:02:30 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-06_23/VEON-RX.pkl')
+2025-02-06 23:02:39 End prepare data to lgbm
+2025-02-06 23:02:39 Start lgbm predicting
+2025-02-06 23:02:39 End lgbm predicting
+2025-02-06 23:02:39 Start sending msg
+2025-02-06 23:02:39 End sending msg
+2025-02-07 10:07:05 Start loading figi data
+2025-02-07 10:07:08 End loading figi data
+2025-02-07 10:07:08 Start loading daily data
+2025-02-07 10:07:40 End loading daily data
+2025-02-07 10:07:40 Start preproc daily data
+2025-02-07 10:07:41 End preproc daily data
+2025-02-07 10:08:16 Start loading hourly data
+2025-02-07 10:09:11 End loading hourly data
+2025-02-07 10:09:11 Start preproc hourly data
+2025-02-07 10:09:11 End preproc hourly data
+2025-02-07 10:09:11 Start prepare data to lgbm
+2025-02-07 10:09:52 End prepare data to lgbm
+2025-02-07 10:09:52 Start lgbm predicting
+2025-02-07 10:09:52 End lgbm predicting
+2025-02-07 10:09:52 Start sending msg
+2025-02-07 10:09:53 End sending msg
+2025-02-07 10:50:01 Start loading figi data
+2025-02-07 10:50:04 End loading figi data
+2025-02-07 10:50:04 Start loading daily data
+2025-02-07 10:50:34 End loading daily data
+2025-02-07 10:50:34 Start preproc daily data
+2025-02-07 10:50:34 End preproc daily data
+2025-02-07 10:50:44 Start loading figi data
+2025-02-07 10:50:47 End loading figi data
+2025-02-07 10:50:47 Start loading daily data
+2025-02-07 10:51:17 End loading daily data
+2025-02-07 10:51:17 Start preproc daily data
+2025-02-07 10:51:18 End preproc daily data
+2025-02-07 11:01:08 Start loading hourly data
+2025-02-07 11:02:01 End loading hourly data
+2025-02-07 11:02:01 Start preproc hourly data
+2025-02-07 11:02:02 End preproc hourly data
+2025-02-07 11:02:02 Start prepare data to lgbm
+2025-02-07 11:02:43 End prepare data to lgbm
+2025-02-07 11:02:43 Start lgbm predicting
+2025-02-07 11:02:43 End lgbm predicting
+2025-02-07 11:02:43 Start sending msg
+2025-02-07 11:02:43 End sending msg
+2025-02-07 12:01:07 Start loading hourly data
+2025-02-07 12:02:01 End loading hourly data
+2025-02-07 12:02:01 Start preproc hourly data
+2025-02-07 12:02:02 End preproc hourly data
+2025-02-07 12:02:02 Start prepare data to lgbm
+2025-02-07 12:02:43 End prepare data to lgbm
+2025-02-07 12:02:43 Start lgbm predicting
+2025-02-07 12:02:43 End lgbm predicting
+2025-02-07 12:02:43 Start sending msg
+2025-02-07 12:02:43 End sending msg
+2025-02-07 13:01:07 Start loading hourly data
+2025-02-07 13:02:03 End loading hourly data
+2025-02-07 13:02:03 Start preproc hourly data
+2025-02-07 13:02:03 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-07 13:02:03 End preproc hourly data
+2025-02-07 13:02:03 Start prepare data to lgbm
+2025-02-07 13:02:14 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_13/KRKNP.pkl')
+2025-02-07 13:02:44 End prepare data to lgbm
+2025-02-07 13:02:44 Start lgbm predicting
+2025-02-07 13:02:44 End lgbm predicting
+2025-02-07 13:02:44 Start sending msg
+2025-02-07 13:02:44 End sending msg
+2025-02-07 14:01:08 Start loading hourly data
+2025-02-07 14:01:59 End loading hourly data
+2025-02-07 14:01:59 Start preproc hourly data
+2025-02-07 14:02:00 End preproc hourly data
+2025-02-07 14:02:00 Start prepare data to lgbm
+2025-02-07 14:02:41 End prepare data to lgbm
+2025-02-07 14:02:41 Start lgbm predicting
+2025-02-07 14:02:41 End lgbm predicting
+2025-02-07 14:02:41 Start sending msg
+2025-02-07 14:02:41 End sending msg
+2025-02-07 15:01:05 Start loading hourly data
+2025-02-07 15:01:57 End loading hourly data
+2025-02-07 15:01:57 Start preproc hourly data
+2025-02-07 15:01:58 End preproc hourly data
+2025-02-07 15:01:58 Start prepare data to lgbm
+2025-02-07 15:02:39 End prepare data to lgbm
+2025-02-07 15:02:39 Start lgbm predicting
+2025-02-07 15:02:39 End lgbm predicting
+2025-02-07 15:02:39 Start sending msg
+2025-02-07 15:02:39 End sending msg
+2025-02-07 16:01:03 Start loading hourly data
+2025-02-07 16:01:56 End loading hourly data
+2025-02-07 16:01:56 Start preproc hourly data
+2025-02-07 16:01:57 End preproc hourly data
+2025-02-07 16:01:57 Start prepare data to lgbm
+2025-02-07 16:02:38 End prepare data to lgbm
+2025-02-07 16:02:38 Start lgbm predicting
+2025-02-07 16:02:38 End lgbm predicting
+2025-02-07 16:02:38 Start sending msg
+2025-02-07 16:02:38 End sending msg
+2025-02-07 17:01:02 Start loading hourly data
+2025-02-07 17:02:06 End loading hourly data
+2025-02-07 17:02:06 Start preproc hourly data
+2025-02-07 17:02:07 End preproc hourly data
+2025-02-07 17:02:07 Start prepare data to lgbm
+2025-02-07 17:02:48 End prepare data to lgbm
+2025-02-07 17:02:48 Start lgbm predicting
+2025-02-07 17:02:48 End lgbm predicting
+2025-02-07 17:02:48 Start sending msg
+2025-02-07 17:02:48 End sending msg
+2025-02-07 18:01:02 Start loading hourly data
+2025-02-07 18:01:55 End loading hourly data
+2025-02-07 18:01:55 Start preproc hourly data
+2025-02-07 18:01:55 End preproc hourly data
+2025-02-07 18:01:55 Start prepare data to lgbm
+2025-02-07 18:02:36 End prepare data to lgbm
+2025-02-07 18:02:36 Start lgbm predicting
+2025-02-07 18:02:36 End lgbm predicting
+2025-02-07 18:02:36 Start sending msg
+2025-02-07 18:02:37 End sending msg
+2025-02-07 22:01:50 Start loading hourly data
+2025-02-07 22:03:12 End loading hourly data
+2025-02-07 22:03:12 Start preproc hourly data
+2025-02-07 22:03:12 KROT: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 YAKG: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 PMSBP: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 NSVZ: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 VRSB: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 CNTLP: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 MGTSP: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 VEON-RX: failed to preproc hourly data (Error time_data)
+2025-02-07 22:03:12 End preproc hourly data
+2025-02-07 22:03:12 Start prepare data to lgbm
+2025-02-07 22:03:16 KROT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/KROT.pkl')
+2025-02-07 22:03:19 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/AKRN.pkl')
+2025-02-07 22:03:19 YAKG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/YAKG.pkl')
+2025-02-07 22:03:19 PMSBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/PMSBP.pkl')
+2025-02-07 22:03:21 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/KRKNP.pkl')
+2025-02-07 22:03:24 NSVZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/NSVZ.pkl')
+2025-02-07 22:03:25 VRSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/VRSB.pkl')
+2025-02-07 22:03:28 CNTLP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/CNTLP.pkl')
+2025-02-07 22:03:32 MGTSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/MGTSP.pkl')
+2025-02-07 22:03:40 VEON-RX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-07_22/VEON-RX.pkl')
+2025-02-07 22:03:49 End prepare data to lgbm
+2025-02-07 22:03:49 Start lgbm predicting
+2025-02-07 22:03:49 End lgbm predicting
+2025-02-07 22:03:49 Start sending msg
+2025-02-07 22:03:50 End sending msg
+2025-02-10 10:01:07 Start loading figi data
+2025-02-10 10:01:10 End loading figi data
+2025-02-10 10:01:10 Start loading daily data
+2025-02-10 10:01:46 End loading daily data
+2025-02-10 10:01:46 Start preproc daily data
+2025-02-10 10:01:46 UNKL: failed to preproc daily data (Error time_data)
+2025-02-10 10:01:46 DVEC: failed to preproc daily data (Error time_data)
+2025-02-10 10:01:46 X5: failed to preproc daily data (Error len)
+2025-02-10 10:01:46 End preproc daily data
+2025-02-10 10:03:06 Start loading hourly data
+2025-02-10 10:04:02 End loading hourly data
+2025-02-10 10:04:02 Start preproc hourly data
+2025-02-10 10:04:02 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-10 10:04:03 End preproc hourly data
+2025-02-10 10:04:03 Start prepare data to lgbm
+2025-02-10 10:04:13 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_10/KRKNP.pkl')
+2025-02-10 10:04:15 UNKL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/UNKL.pkl')
+2025-02-10 10:04:29 DVEC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/DVEC.pkl')
+2025-02-10 10:04:33 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 10:04:42 End prepare data to lgbm
+2025-02-10 10:04:42 Start lgbm predicting
+2025-02-10 10:04:42 End lgbm predicting
+2025-02-10 10:04:42 Start sending msg
+2025-02-10 10:04:43 End sending msg
+2025-02-10 10:50:05 Start loading figi data
+2025-02-10 10:50:07 End loading figi data
+2025-02-10 10:50:07 Start loading daily data
+2025-02-10 10:50:37 End loading daily data
+2025-02-10 10:50:37 Start preproc daily data
+2025-02-10 10:50:38 X5: failed to preproc daily data (Error len)
+2025-02-10 10:50:38 End preproc daily data
+2025-02-10 10:50:48 Start loading figi data
+2025-02-10 10:50:50 End loading figi data
+2025-02-10 10:50:50 Start loading daily data
+2025-02-10 10:51:19 End loading daily data
+2025-02-10 10:51:19 Start preproc daily data
+2025-02-10 10:51:19 X5: failed to preproc daily data (Error len)
+2025-02-10 10:51:19 End preproc daily data
+2025-02-10 11:01:10 Start loading hourly data
+2025-02-10 11:02:00 End loading hourly data
+2025-02-10 11:02:00 Start preproc hourly data
+2025-02-10 11:02:01 End preproc hourly data
+2025-02-10 11:02:01 Start prepare data to lgbm
+2025-02-10 11:02:32 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 11:02:42 End prepare data to lgbm
+2025-02-10 11:02:42 Start lgbm predicting
+2025-02-10 11:02:42 End lgbm predicting
+2025-02-10 11:02:42 Start sending msg
+2025-02-10 11:02:42 End sending msg
+2025-02-10 12:01:05 Start loading hourly data
+2025-02-10 12:01:58 End loading hourly data
+2025-02-10 12:01:58 Start preproc hourly data
+2025-02-10 12:01:59 End preproc hourly data
+2025-02-10 12:01:59 Start prepare data to lgbm
+2025-02-10 12:02:30 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 12:02:40 End prepare data to lgbm
+2025-02-10 12:02:40 Start lgbm predicting
+2025-02-10 12:02:40 End lgbm predicting
+2025-02-10 12:02:40 Start sending msg
+2025-02-10 12:02:40 End sending msg
+2025-02-10 13:01:03 Start loading hourly data
+2025-02-10 13:01:58 End loading hourly data
+2025-02-10 13:01:58 Start preproc hourly data
+2025-02-10 13:01:58 End preproc hourly data
+2025-02-10 13:01:58 Start prepare data to lgbm
+2025-02-10 13:02:30 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 13:02:39 End prepare data to lgbm
+2025-02-10 13:02:39 Start lgbm predicting
+2025-02-10 13:02:39 End lgbm predicting
+2025-02-10 13:02:39 Start sending msg
+2025-02-10 13:02:40 End sending msg
+2025-02-10 14:01:02 Start loading hourly data
+2025-02-10 14:02:05 End loading hourly data
+2025-02-10 14:02:05 Start preproc hourly data
+2025-02-10 14:02:06 End preproc hourly data
+2025-02-10 14:02:06 Start prepare data to lgbm
+2025-02-10 14:02:38 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 14:02:47 End prepare data to lgbm
+2025-02-10 14:02:47 Start lgbm predicting
+2025-02-10 14:02:47 End lgbm predicting
+2025-02-10 14:02:47 Start sending msg
+2025-02-10 14:02:47 End sending msg
+2025-02-10 15:01:04 Start loading hourly data
+2025-02-10 15:01:59 End loading hourly data
+2025-02-10 15:01:59 Start preproc hourly data
+2025-02-10 15:02:00 End preproc hourly data
+2025-02-10 15:02:00 Start prepare data to lgbm
+2025-02-10 15:02:31 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 15:02:41 End prepare data to lgbm
+2025-02-10 15:02:41 Start lgbm predicting
+2025-02-10 15:02:41 End lgbm predicting
+2025-02-10 15:02:41 Start sending msg
+2025-02-10 15:02:41 End sending msg
+2025-02-10 16:01:04 Start loading hourly data
+2025-02-10 16:01:59 End loading hourly data
+2025-02-10 16:01:59 Start preproc hourly data
+2025-02-10 16:02:00 End preproc hourly data
+2025-02-10 16:02:00 Start prepare data to lgbm
+2025-02-10 16:02:32 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 16:02:41 End prepare data to lgbm
+2025-02-10 16:02:41 Start lgbm predicting
+2025-02-10 16:02:41 End lgbm predicting
+2025-02-10 16:02:41 Start sending msg
+2025-02-10 16:02:42 End sending msg
+2025-02-10 18:01:09 Start loading hourly data
+2025-02-10 18:02:11 End loading hourly data
+2025-02-10 18:02:11 Start preproc hourly data
+2025-02-10 18:02:12 End preproc hourly data
+2025-02-10 18:02:12 Start prepare data to lgbm
+2025-02-10 18:02:43 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 18:02:53 End prepare data to lgbm
+2025-02-10 18:02:53 Start lgbm predicting
+2025-02-10 18:02:53 End lgbm predicting
+2025-02-10 18:02:53 Start sending msg
+2025-02-10 18:02:53 End sending msg
+2025-02-10 19:01:06 Start loading hourly data
+2025-02-10 19:02:33 End loading hourly data
+2025-02-10 19:02:33 Start preproc hourly data
+2025-02-10 19:02:34 End preproc hourly data
+2025-02-10 19:02:34 Start prepare data to lgbm
+2025-02-10 19:03:05 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 19:03:15 End prepare data to lgbm
+2025-02-10 19:03:15 Start lgbm predicting
+2025-02-10 19:03:15 End lgbm predicting
+2025-02-10 19:03:15 Start sending msg
+2025-02-10 19:03:15 End sending msg
+2025-02-10 20:01:08 Start loading hourly data
+2025-02-10 20:01:32 AFLT: failed to load hourly data
+2025-02-10 20:02:02 IRAO: failed to load hourly data
+2025-02-10 20:02:16 MVID: failed to load hourly data
+2025-02-10 20:02:25 OGKB: failed to load hourly data
+2025-02-10 20:02:34 SPBE: failed to load hourly data
+2025-02-10 20:02:48 MTLRP: failed to load hourly data
+2025-02-10 20:04:13 SFIN: failed to load hourly data
+2025-02-10 20:05:37 KMAZ: failed to load hourly data
+2025-02-10 20:08:17 CBOM: failed to load hourly data
+2025-02-10 20:12:12 MSNG: failed to load hourly data
+2025-02-10 20:16:07 FEES: failed to load hourly data
+2025-02-10 20:16:51 LKOH: failed to load hourly data
+2025-02-10 20:17:00 FESH: failed to load hourly data
+2025-02-10 20:17:14 KROT: failed to load hourly data
+2025-02-10 20:17:23 LENT: failed to load hourly data
+2025-02-10 20:19:08 MDMG: failed to load hourly data
+2025-02-10 20:19:22 NKNCP: failed to load hourly data
+2025-02-10 20:19:31 VKCO: failed to load hourly data
+2025-02-10 20:19:40 UPRO: failed to load hourly data
+2025-02-10 20:19:49 MRKY: failed to load hourly data
+2025-02-10 20:19:58 SELG: failed to load hourly data
+2025-02-10 20:20:07 SGZH: failed to load hourly data
+2025-02-10 20:20:16 AKRN: failed to load hourly data
+2025-02-10 20:20:25 CHMK: failed to load hourly data
+2025-02-10 20:20:34 ENPG: failed to load hourly data
+2025-02-10 20:20:44 YAKG: failed to load hourly data
+2025-02-10 20:20:53 PMSBP: failed to load hourly data
+2025-02-10 20:21:02 RKKE: failed to load hourly data
+2025-02-10 20:21:11 GEMC: failed to load hourly data
+2025-02-10 20:21:20 LSRG: failed to load hourly data
+2025-02-10 20:21:29 MRKZ: failed to load hourly data
+2025-02-10 20:22:31 End loading hourly data
+2025-02-10 20:22:31 Start preproc hourly data
+2025-02-10 20:22:31 AFLT: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/AFLT.pkl')
+2025-02-10 20:22:31 IRAO: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/IRAO.pkl')
+2025-02-10 20:22:31 MVID: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/MVID.pkl')
+2025-02-10 20:22:31 OGKB: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/OGKB.pkl')
+2025-02-10 20:22:31 SPBE: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/SPBE.pkl')
+2025-02-10 20:22:31 MTLRP: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/MTLRP.pkl')
+2025-02-10 20:22:31 SFIN: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/SFIN.pkl')
+2025-02-10 20:22:31 KMAZ: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/KMAZ.pkl')
+2025-02-10 20:22:31 CBOM: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/CBOM.pkl')
+2025-02-10 20:22:31 MSNG: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/MSNG.pkl')
+2025-02-10 20:22:31 FEES: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/FEES.pkl')
+2025-02-10 20:22:31 LKOH: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/LKOH.pkl')
+2025-02-10 20:22:31 FESH: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/FESH.pkl')
+2025-02-10 20:22:31 KROT: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/KROT.pkl')
+2025-02-10 20:22:31 LENT: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/LENT.pkl')
+2025-02-10 20:22:31 MDMG: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/MDMG.pkl')
+2025-02-10 20:22:31 NKNCP: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/NKNCP.pkl')
+2025-02-10 20:22:31 VKCO: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/VKCO.pkl')
+2025-02-10 20:22:31 UPRO: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/UPRO.pkl')
+2025-02-10 20:22:31 MRKY: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/MRKY.pkl')
+2025-02-10 20:22:31 SELG: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/SELG.pkl')
+2025-02-10 20:22:31 SGZH: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/SGZH.pkl')
+2025-02-10 20:22:31 AKRN: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/AKRN.pkl')
+2025-02-10 20:22:31 CHMK: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/CHMK.pkl')
+2025-02-10 20:22:31 ENPG: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/ENPG.pkl')
+2025-02-10 20:22:31 YAKG: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/YAKG.pkl')
+2025-02-10 20:22:31 PMSBP: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/PMSBP.pkl')
+2025-02-10 20:22:31 RKKE: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/RKKE.pkl')
+2025-02-10 20:22:31 GEMC: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/GEMC.pkl')
+2025-02-10 20:22:31 LSRG: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/LSRG.pkl')
+2025-02-10 20:22:31 MRKZ: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-10_20/MRKZ.pkl')
+2025-02-10 20:22:31 VRSB: failed to preproc hourly data (Error time_data)
+2025-02-10 20:22:31 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-10 20:22:31 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-10 20:22:32 End preproc hourly data
+2025-02-10 20:22:32 Start prepare data to lgbm
+2025-02-10 20:22:32 AFLT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/AFLT.pkl')
+2025-02-10 20:22:32 IRAO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/IRAO.pkl')
+2025-02-10 20:22:32 MVID: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/MVID.pkl')
+2025-02-10 20:22:32 OGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/OGKB.pkl')
+2025-02-10 20:22:32 SPBE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/SPBE.pkl')
+2025-02-10 20:22:32 MTLRP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/MTLRP.pkl')
+2025-02-10 20:22:32 SFIN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/SFIN.pkl')
+2025-02-10 20:22:32 KMAZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/KMAZ.pkl')
+2025-02-10 20:22:32 CBOM: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/CBOM.pkl')
+2025-02-10 20:22:32 MSNG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/MSNG.pkl')
+2025-02-10 20:22:32 FEES: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/FEES.pkl')
+2025-02-10 20:22:32 LKOH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/LKOH.pkl')
+2025-02-10 20:22:32 FESH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/FESH.pkl')
+2025-02-10 20:22:32 KROT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/KROT.pkl')
+2025-02-10 20:22:32 LENT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/LENT.pkl')
+2025-02-10 20:22:32 MDMG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/MDMG.pkl')
+2025-02-10 20:22:32 NKNCP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/NKNCP.pkl')
+2025-02-10 20:22:32 VKCO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/VKCO.pkl')
+2025-02-10 20:22:32 UPRO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/UPRO.pkl')
+2025-02-10 20:22:32 MRKY: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/MRKY.pkl')
+2025-02-10 20:22:32 SELG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/SELG.pkl')
+2025-02-10 20:22:32 SGZH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/SGZH.pkl')
+2025-02-10 20:22:32 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/AKRN.pkl')
+2025-02-10 20:22:32 CHMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/CHMK.pkl')
+2025-02-10 20:22:32 ENPG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/ENPG.pkl')
+2025-02-10 20:22:32 YAKG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/YAKG.pkl')
+2025-02-10 20:22:32 PMSBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/PMSBP.pkl')
+2025-02-10 20:22:32 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/RKKE.pkl')
+2025-02-10 20:22:32 GEMC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/GEMC.pkl')
+2025-02-10 20:22:32 LSRG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/LSRG.pkl')
+2025-02-10 20:22:32 MRKZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/MRKZ.pkl')
+2025-02-10 20:22:37 VRSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/VRSB.pkl')
+2025-02-10 20:22:43 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/TGKB.pkl')
+2025-02-10 20:22:48 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_20/KAZTP.pkl')
+2025-02-10 20:22:52 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 20:23:02 End prepare data to lgbm
+2025-02-10 20:23:02 Start lgbm predicting
+2025-02-10 20:23:02 End lgbm predicting
+2025-02-10 20:23:02 Start sending msg
+2025-02-10 20:23:02 End sending msg
+2025-02-10 21:01:04 Start loading hourly data
+2025-02-10 21:02:00 End loading hourly data
+2025-02-10 21:02:00 Start preproc hourly data
+2025-02-10 21:02:00 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-10 21:02:00 PMSB: failed to preproc hourly data (Error time_data)
+2025-02-10 21:02:00 UNKL: failed to preproc hourly data (Error time_data)
+2025-02-10 21:02:00 NSVZ: failed to preproc hourly data (Error time_data)
+2025-02-10 21:02:00 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-10 21:02:00 End preproc hourly data
+2025-02-10 21:02:00 Start prepare data to lgbm
+2025-02-10 21:02:08 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_21/AKRN.pkl')
+2025-02-10 21:02:11 PMSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_21/PMSB.pkl')
+2025-02-10 21:02:13 UNKL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_21/UNKL.pkl')
+2025-02-10 21:02:14 NSVZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_21/NSVZ.pkl')
+2025-02-10 21:02:27 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_21/KAZTP.pkl')
+2025-02-10 21:02:31 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 21:02:41 End prepare data to lgbm
+2025-02-10 21:02:41 Start lgbm predicting
+2025-02-10 21:02:41 End lgbm predicting
+2025-02-10 21:02:41 Start sending msg
+2025-02-10 21:02:42 End sending msg
+2025-02-10 22:01:05 Start loading hourly data
+2025-02-10 22:02:05 End loading hourly data
+2025-02-10 22:02:05 Start preproc hourly data
+2025-02-10 22:02:05 MRKY: failed to preproc hourly data (Error time_data)
+2025-02-10 22:02:05 KAZT: failed to preproc hourly data (Error time_data)
+2025-02-10 22:02:05 End preproc hourly data
+2025-02-10 22:02:05 Start prepare data to lgbm
+2025-02-10 22:02:12 MRKY: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_22/MRKY.pkl')
+2025-02-10 22:02:36 KAZT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_22/KAZT.pkl')
+2025-02-10 22:02:38 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 22:02:48 End prepare data to lgbm
+2025-02-10 22:02:48 Start lgbm predicting
+2025-02-10 22:02:48 End lgbm predicting
+2025-02-10 22:02:48 Start sending msg
+2025-02-10 22:02:48 End sending msg
+2025-02-10 23:01:02 Start loading hourly data
+2025-02-10 23:01:57 End loading hourly data
+2025-02-10 23:01:57 Start preproc hourly data
+2025-02-10 23:01:57 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-10 23:01:57 RKKE: failed to preproc hourly data (Error time_data)
+2025-02-10 23:01:57 UNKL: failed to preproc hourly data (Error time_data)
+2025-02-10 23:01:57 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-10 23:01:57 End preproc hourly data
+2025-02-10 23:01:57 Start prepare data to lgbm
+2025-02-10 23:02:04 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_23/AKRN.pkl')
+2025-02-10 23:02:06 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_23/RKKE.pkl')
+2025-02-10 23:02:09 UNKL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_23/UNKL.pkl')
+2025-02-10 23:02:18 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-10_23/TGKB.pkl')
+2025-02-10 23:02:28 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-10/X5.pkl')
+2025-02-10 23:02:37 End prepare data to lgbm
+2025-02-10 23:02:37 Start lgbm predicting
+2025-02-10 23:02:37 End lgbm predicting
+2025-02-10 23:02:37 Start sending msg
+2025-02-10 23:02:37 End sending msg
+2025-02-11 10:25:09 Start loading figi data
+2025-02-11 10:25:12 End loading figi data
+2025-02-11 10:25:12 Start loading daily data
+2025-02-11 10:26:00 End loading daily data
+2025-02-11 10:26:00 Start preproc daily data
+2025-02-11 10:26:01 X5: failed to preproc daily data (Error len)
+2025-02-11 10:26:01 End preproc daily data
+2025-02-11 10:50:02 Start loading figi data
+2025-02-11 10:50:05 End loading figi data
+2025-02-11 10:50:05 Start loading daily data
+2025-02-11 10:51:09 End loading daily data
+2025-02-11 10:51:09 Start preproc daily data
+2025-02-11 10:51:10 X5: failed to preproc daily data (Error len)
+2025-02-11 10:51:10 End preproc daily data
+2025-02-11 11:01:00 Start loading hourly data
+2025-02-11 11:02:45 End loading hourly data
+2025-02-11 11:02:45 Start preproc hourly data
+2025-02-11 11:02:46 End preproc hourly data
+2025-02-11 11:02:46 Start prepare data to lgbm
+2025-02-11 11:03:17 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 11:03:27 End prepare data to lgbm
+2025-02-11 11:03:27 Start lgbm predicting
+2025-02-11 11:03:27 End lgbm predicting
+2025-02-11 11:03:27 Start sending msg
+2025-02-11 11:03:27 End sending msg
+2025-02-11 12:01:00 Start loading hourly data
+2025-02-11 12:02:32 End loading hourly data
+2025-02-11 12:02:32 Start preproc hourly data
+2025-02-11 12:02:33 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-11 12:02:33 End preproc hourly data
+2025-02-11 12:02:33 Start prepare data to lgbm
+2025-02-11 12:03:00 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_12/KAZTP.pkl')
+2025-02-11 12:03:04 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 12:03:14 End prepare data to lgbm
+2025-02-11 12:03:14 Start lgbm predicting
+2025-02-11 12:03:14 End lgbm predicting
+2025-02-11 12:03:14 Start sending msg
+2025-02-11 12:03:14 End sending msg
+2025-02-11 13:01:08 Start loading hourly data
+2025-02-11 13:01:55 End loading hourly data
+2025-02-11 13:01:55 Start preproc hourly data
+2025-02-11 13:01:56 End preproc hourly data
+2025-02-11 13:01:56 Start prepare data to lgbm
+2025-02-11 13:02:32 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 13:02:43 End prepare data to lgbm
+2025-02-11 13:02:43 Start lgbm predicting
+2025-02-11 13:02:43 End lgbm predicting
+2025-02-11 13:02:43 Start sending msg
+2025-02-11 13:02:43 End sending msg
+2025-02-11 14:01:07 Start loading hourly data
+2025-02-11 14:03:14 End loading hourly data
+2025-02-11 14:03:14 Start preproc hourly data
+2025-02-11 14:03:15 End preproc hourly data
+2025-02-11 14:03:15 Start prepare data to lgbm
+2025-02-11 14:03:46 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 14:03:55 End prepare data to lgbm
+2025-02-11 14:03:55 Start lgbm predicting
+2025-02-11 14:03:55 End lgbm predicting
+2025-02-11 14:03:55 Start sending msg
+2025-02-11 14:03:56 End sending msg
+2025-02-11 15:01:09 Start loading hourly data
+2025-02-11 15:01:59 End loading hourly data
+2025-02-11 15:01:59 Start preproc hourly data
+2025-02-11 15:02:00 End preproc hourly data
+2025-02-11 15:02:00 Start prepare data to lgbm
+2025-02-11 15:02:31 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 15:02:41 End prepare data to lgbm
+2025-02-11 15:02:41 Start lgbm predicting
+2025-02-11 15:02:41 End lgbm predicting
+2025-02-11 15:02:41 Start sending msg
+2025-02-11 15:02:41 End sending msg
+2025-02-11 16:01:04 Start loading hourly data
+2025-02-11 16:01:49 End loading hourly data
+2025-02-11 16:01:49 Start preproc hourly data
+2025-02-11 16:01:50 End preproc hourly data
+2025-02-11 16:01:50 Start prepare data to lgbm
+2025-02-11 16:02:34 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 16:02:47 End prepare data to lgbm
+2025-02-11 16:02:47 Start lgbm predicting
+2025-02-11 16:02:47 End lgbm predicting
+2025-02-11 16:02:47 Start sending msg
+2025-02-11 16:02:48 End sending msg
+2025-02-11 17:01:01 Start loading hourly data
+2025-02-11 17:01:55 End loading hourly data
+2025-02-11 17:01:55 Start preproc hourly data
+2025-02-11 17:01:55 End preproc hourly data
+2025-02-11 17:01:55 Start prepare data to lgbm
+2025-02-11 17:02:27 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 17:02:36 End prepare data to lgbm
+2025-02-11 17:02:36 Start lgbm predicting
+2025-02-11 17:02:36 End lgbm predicting
+2025-02-11 17:02:36 Start sending msg
+2025-02-11 17:02:37 End sending msg
+2025-02-11 18:01:09 Start loading hourly data
+2025-02-11 18:02:14 End loading hourly data
+2025-02-11 18:02:14 Start preproc hourly data
+2025-02-11 18:02:14 End preproc hourly data
+2025-02-11 18:02:14 Start prepare data to lgbm
+2025-02-11 18:02:48 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 18:02:59 End prepare data to lgbm
+2025-02-11 18:02:59 Start lgbm predicting
+2025-02-11 18:02:59 End lgbm predicting
+2025-02-11 18:02:59 Start sending msg
+2025-02-11 18:02:59 End sending msg
+2025-02-11 19:01:02 Start loading hourly data
+2025-02-11 19:04:57 AFLT: failed to load hourly data
+2025-02-11 19:07:43 End loading hourly data
+2025-02-11 19:07:43 Start preproc hourly data
+2025-02-11 19:07:43 AFLT: failed to preproc hourly data ([Errno 2] No such file or directory: './data/raw/1hour/2025-02-11_19/AFLT.pkl')
+2025-02-11 19:07:43 End preproc hourly data
+2025-02-11 19:07:43 Start prepare data to lgbm
+2025-02-11 19:07:43 AFLT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_19/AFLT.pkl')
+2025-02-11 19:08:16 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 19:08:26 End prepare data to lgbm
+2025-02-11 19:08:26 Start lgbm predicting
+2025-02-11 19:08:26 End lgbm predicting
+2025-02-11 19:08:26 Start sending msg
+2025-02-11 19:08:27 End sending msg
+2025-02-11 20:01:09 Start loading hourly data
+2025-02-11 20:01:55 End loading hourly data
+2025-02-11 20:01:55 Start preproc hourly data
+2025-02-11 20:01:55 RKKE: failed to preproc hourly data (Error time_data)
+2025-02-11 20:01:55 LNZL: failed to preproc hourly data (Error time_data)
+2025-02-11 20:01:55 NSVZ: failed to preproc hourly data (Error time_data)
+2025-02-11 20:01:55 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-11 20:01:55 End preproc hourly data
+2025-02-11 20:01:55 Start prepare data to lgbm
+2025-02-11 20:02:05 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_20/RKKE.pkl')
+2025-02-11 20:02:10 LNZL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_20/LNZL.pkl')
+2025-02-11 20:02:10 NSVZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_20/NSVZ.pkl')
+2025-02-11 20:02:19 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_20/TGKB.pkl')
+2025-02-11 20:02:29 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 20:02:40 End prepare data to lgbm
+2025-02-11 20:02:40 Start lgbm predicting
+2025-02-11 20:02:40 End lgbm predicting
+2025-02-11 20:02:40 Start sending msg
+2025-02-11 20:02:40 End sending msg
+2025-02-11 21:01:03 Start loading hourly data
+2025-02-11 21:02:12 End loading hourly data
+2025-02-11 21:02:12 Start preproc hourly data
+2025-02-11 21:02:12 RKKE: failed to preproc hourly data (Error time_data)
+2025-02-11 21:02:12 NSVZ: failed to preproc hourly data (Error time_data)
+2025-02-11 21:02:12 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-11 21:02:12 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-11 21:02:12 End preproc hourly data
+2025-02-11 21:02:12 Start prepare data to lgbm
+2025-02-11 21:02:22 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_21/RKKE.pkl')
+2025-02-11 21:02:28 NSVZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_21/NSVZ.pkl')
+2025-02-11 21:02:36 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_21/TGKB.pkl')
+2025-02-11 21:02:41 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_21/KAZTP.pkl')
+2025-02-11 21:02:46 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 21:02:57 End prepare data to lgbm
+2025-02-11 21:02:57 Start lgbm predicting
+2025-02-11 21:02:57 End lgbm predicting
+2025-02-11 21:02:57 Start sending msg
+2025-02-11 21:02:57 End sending msg
+2025-02-11 22:01:00 Start loading hourly data
+2025-02-11 22:03:51 End loading hourly data
+2025-02-11 22:03:51 Start preproc hourly data
+2025-02-11 22:03:51 KROT: failed to preproc hourly data (Error time_data)
+2025-02-11 22:03:51 CHMK: failed to preproc hourly data (Error time_data)
+2025-02-11 22:03:51 CNTL: failed to preproc hourly data (Error time_data)
+2025-02-11 22:03:51 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-11 22:03:51 CNTLP: failed to preproc hourly data (Error time_data)
+2025-02-11 22:03:51 KLSB: failed to preproc hourly data (Error time_data)
+2025-02-11 22:03:52 KAZTP: failed to preproc hourly data (Error time_data)
+2025-02-11 22:03:52 DVEC: failed to preproc hourly data (Error time_data)
+2025-02-11 22:03:52 TGKBP: failed to preproc hourly data (Error time_data)
+2025-02-11 22:03:52 End preproc hourly data
+2025-02-11 22:03:52 Start prepare data to lgbm
+2025-02-11 22:03:56 KROT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_22/KROT.pkl')
+2025-02-11 22:03:59 CHMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_22/CHMK.pkl')
+2025-02-11 22:04:01 CNTL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_22/CNTL.pkl')
+2025-02-11 22:04:01 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_22/KRKNP.pkl')
+2025-02-11 22:04:09 CNTLP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_22/CNTLP.pkl')
+2025-02-11 22:04:15 KLSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_22/KLSB.pkl')
+2025-02-11 22:04:16 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_22/KAZTP.pkl')
+2025-02-11 22:04:16 DVEC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_22/DVEC.pkl')
+2025-02-11 22:04:20 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 22:04:25 TGKBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_22/TGKBP.pkl')
+2025-02-11 22:04:29 End prepare data to lgbm
+2025-02-11 22:04:29 Start lgbm predicting
+2025-02-11 22:04:29 End lgbm predicting
+2025-02-11 22:04:29 Start sending msg
+2025-02-11 22:04:30 End sending msg
+2025-02-11 23:01:04 Start loading hourly data
+2025-02-11 23:03:05 End loading hourly data
+2025-02-11 23:03:05 Start preproc hourly data
+2025-02-11 23:03:05 NKNCP: failed to preproc hourly data (Error time_data)
+2025-02-11 23:03:05 AKRN: failed to preproc hourly data (Error time_data)
+2025-02-11 23:03:05 NSVZ: failed to preproc hourly data (Error time_data)
+2025-02-11 23:03:06 CNTLP: failed to preproc hourly data (Error time_data)
+2025-02-11 23:03:06 End preproc hourly data
+2025-02-11 23:03:06 Start prepare data to lgbm
+2025-02-11 23:03:11 NKNCP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_23/NKNCP.pkl')
+2025-02-11 23:03:12 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_23/AKRN.pkl')
+2025-02-11 23:03:18 NSVZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_23/NSVZ.pkl')
+2025-02-11 23:03:23 CNTLP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-11_23/CNTLP.pkl')
+2025-02-11 23:03:35 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-11/X5.pkl')
+2025-02-11 23:03:44 End prepare data to lgbm
+2025-02-11 23:03:44 Start lgbm predicting
+2025-02-11 23:03:44 End lgbm predicting
+2025-02-11 23:03:44 Start sending msg
+2025-02-11 23:03:46 End sending msg
+2025-02-12 10:01:01 Start loading figi data
+2025-02-12 10:01:04 End loading figi data
+2025-02-12 10:01:04 Start loading daily data
+2025-02-12 10:01:33 End loading daily data
+2025-02-12 10:01:33 Start preproc daily data
+2025-02-12 10:01:33 KROT: failed to preproc daily data (Error time_data)
+2025-02-12 10:01:33 MRKY: failed to preproc daily data (Error time_data)
+2025-02-12 10:01:33 CHMK: failed to preproc daily data (Error time_data)
+2025-02-12 10:01:33 PMSBP: failed to preproc daily data (Error time_data)
+2025-02-12 10:01:33 MRKZ: failed to preproc daily data (Error time_data)
+2025-02-12 10:01:33 KRKNP: failed to preproc daily data (Error time_data)
+2025-02-12 10:01:33 KAZT: failed to preproc daily data (Error time_data)
+2025-02-12 10:01:33 X5: failed to preproc daily data (Error len)
+2025-02-12 10:01:33 MRKS: failed to preproc daily data (Error time_data)
+2025-02-12 10:01:33 PRFN: failed to preproc daily data (Error time_data)
+2025-02-12 10:01:33 End preproc daily data
+2025-02-12 10:03:04 Start loading hourly data
+2025-02-12 10:03:56 End loading hourly data
+2025-02-12 10:03:56 Start preproc hourly data
+2025-02-12 10:03:56 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-12 10:03:56 DVEC: failed to preproc hourly data (Error time_data)
+2025-02-12 10:03:56 End preproc hourly data
+2025-02-12 10:03:56 Start prepare data to lgbm
+2025-02-12 10:04:00 KROT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/KROT.pkl')
+2025-02-12 10:04:02 MRKY: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/MRKY.pkl')
+2025-02-12 10:04:03 CHMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/CHMK.pkl')
+2025-02-12 10:04:04 PMSBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/PMSBP.pkl')
+2025-02-12 10:04:05 MRKZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/MRKZ.pkl')
+2025-02-12 10:04:05 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/KRKNP.pkl')
+2025-02-12 10:04:21 DVEC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-12_10/DVEC.pkl')
+2025-02-12 10:04:23 KAZT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/KAZT.pkl')
+2025-02-12 10:04:25 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 10:04:31 MRKS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/MRKS.pkl')
+2025-02-12 10:04:32 PRFN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/PRFN.pkl')
+2025-02-12 10:04:34 End prepare data to lgbm
+2025-02-12 10:04:34 Start lgbm predicting
+2025-02-12 10:04:34 End lgbm predicting
+2025-02-12 10:04:34 Start sending msg
+2025-02-12 10:04:34 End sending msg
+2025-02-12 10:50:07 Start loading figi data
+2025-02-12 10:50:09 End loading figi data
+2025-02-12 10:50:09 Start loading daily data
+2025-02-12 10:50:35 End loading daily data
+2025-02-12 10:50:35 Start preproc daily data
+2025-02-12 10:50:35 X5: failed to preproc daily data (Error len)
+2025-02-12 10:50:35 End preproc daily data
+2025-02-12 10:50:45 Start loading figi data
+2025-02-12 10:50:47 End loading figi data
+2025-02-12 10:50:47 Start loading daily data
+2025-02-12 10:51:13 End loading daily data
+2025-02-12 10:51:13 Start preproc daily data
+2025-02-12 10:51:13 X5: failed to preproc daily data (Error len)
+2025-02-12 10:51:13 End preproc daily data
+2025-02-12 11:01:04 Start loading hourly data
+2025-02-12 11:01:57 End loading hourly data
+2025-02-12 11:01:57 Start preproc hourly data
+2025-02-12 11:01:57 End preproc hourly data
+2025-02-12 11:01:57 Start prepare data to lgbm
+2025-02-12 11:02:29 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 11:02:38 End prepare data to lgbm
+2025-02-12 11:02:38 Start lgbm predicting
+2025-02-12 11:02:38 End lgbm predicting
+2025-02-12 11:02:38 Start sending msg
+2025-02-12 11:02:39 End sending msg
+2025-02-12 12:01:02 Start loading hourly data
+2025-02-12 12:01:55 End loading hourly data
+2025-02-12 12:01:55 Start preproc hourly data
+2025-02-12 12:01:56 End preproc hourly data
+2025-02-12 12:01:56 Start prepare data to lgbm
+2025-02-12 12:02:29 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 12:02:38 End prepare data to lgbm
+2025-02-12 12:02:38 Start lgbm predicting
+2025-02-12 12:02:38 End lgbm predicting
+2025-02-12 12:02:38 Start sending msg
+2025-02-12 12:02:39 End sending msg
+2025-02-12 13:01:02 Start loading hourly data
+2025-02-12 13:01:47 End loading hourly data
+2025-02-12 13:01:47 Start preproc hourly data
+2025-02-12 13:01:47 End preproc hourly data
+2025-02-12 13:01:47 Start prepare data to lgbm
+2025-02-12 13:02:22 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 13:02:33 End prepare data to lgbm
+2025-02-12 13:02:33 Start lgbm predicting
+2025-02-12 13:02:33 End lgbm predicting
+2025-02-12 13:02:33 Start sending msg
+2025-02-12 13:02:34 End sending msg
+2025-02-12 14:01:09 Start loading hourly data
+2025-02-12 14:01:51 End loading hourly data
+2025-02-12 14:01:51 Start preproc hourly data
+2025-02-12 14:01:52 End preproc hourly data
+2025-02-12 14:01:52 Start prepare data to lgbm
+2025-02-12 14:02:28 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 14:02:39 End prepare data to lgbm
+2025-02-12 14:02:39 Start lgbm predicting
+2025-02-12 14:02:39 End lgbm predicting
+2025-02-12 14:02:39 Start sending msg
+2025-02-12 14:02:39 End sending msg
+2025-02-12 15:01:02 Start loading hourly data
+2025-02-12 15:01:54 End loading hourly data
+2025-02-12 15:01:54 Start preproc hourly data
+2025-02-12 15:01:54 End preproc hourly data
+2025-02-12 15:01:54 Start prepare data to lgbm
+2025-02-12 15:02:26 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 15:02:36 End prepare data to lgbm
+2025-02-12 15:02:36 Start lgbm predicting
+2025-02-12 15:02:36 End lgbm predicting
+2025-02-12 15:02:36 Start sending msg
+2025-02-12 15:02:36 End sending msg
+2025-02-12 16:01:09 Start loading hourly data
+2025-02-12 16:02:02 End loading hourly data
+2025-02-12 16:02:02 Start preproc hourly data
+2025-02-12 16:02:03 End preproc hourly data
+2025-02-12 16:02:03 Start prepare data to lgbm
+2025-02-12 16:02:34 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 16:02:44 End prepare data to lgbm
+2025-02-12 16:02:44 Start lgbm predicting
+2025-02-12 16:02:44 End lgbm predicting
+2025-02-12 16:02:44 Start sending msg
+2025-02-12 16:02:44 End sending msg
+2025-02-12 17:01:08 Start loading hourly data
+2025-02-12 17:01:57 End loading hourly data
+2025-02-12 17:01:57 Start preproc hourly data
+2025-02-12 17:01:57 KRKNP: failed to preproc hourly data (Error time_data)
+2025-02-12 17:01:57 End preproc hourly data
+2025-02-12 17:01:57 Start prepare data to lgbm
+2025-02-12 17:02:11 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-12_17/KRKNP.pkl')
+2025-02-12 17:02:36 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 17:02:48 End prepare data to lgbm
+2025-02-12 17:02:48 Start lgbm predicting
+2025-02-12 17:02:48 End lgbm predicting
+2025-02-12 17:02:48 Start sending msg
+2025-02-12 17:02:49 End sending msg
+2025-02-12 18:01:02 Start loading hourly data
+2025-02-12 18:01:55 End loading hourly data
+2025-02-12 18:01:55 Start preproc hourly data
+2025-02-12 18:01:56 End preproc hourly data
+2025-02-12 18:01:56 Start prepare data to lgbm
+2025-02-12 18:02:29 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 18:02:38 End prepare data to lgbm
+2025-02-12 18:02:38 Start lgbm predicting
+2025-02-12 18:02:38 End lgbm predicting
+2025-02-12 18:02:38 Start sending msg
+2025-02-12 18:02:39 End sending msg
+2025-02-12 19:01:02 Start loading hourly data
+2025-02-12 19:02:00 End loading hourly data
+2025-02-12 19:02:00 Start preproc hourly data
+2025-02-12 19:02:01 End preproc hourly data
+2025-02-12 19:02:01 Start prepare data to lgbm
+2025-02-12 19:02:32 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 19:02:42 End prepare data to lgbm
+2025-02-12 19:02:42 Start lgbm predicting
+2025-02-12 19:02:42 End lgbm predicting
+2025-02-12 19:02:42 Start sending msg
+2025-02-12 19:02:42 End sending msg
+2025-02-12 20:01:06 Start loading hourly data
+2025-02-12 20:02:11 End loading hourly data
+2025-02-12 20:02:11 Start preproc hourly data
+2025-02-12 20:02:11 PMSBP: failed to preproc hourly data (Error time_data)
+2025-02-12 20:02:11 TGKB: failed to preproc hourly data (Error time_data)
+2025-02-12 20:02:11 End preproc hourly data
+2025-02-12 20:02:11 Start prepare data to lgbm
+2025-02-12 20:02:20 PMSBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-12_20/PMSBP.pkl')
+2025-02-12 20:02:33 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-12_20/TGKB.pkl')
+2025-02-12 20:02:42 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 20:02:52 End prepare data to lgbm
+2025-02-12 20:02:52 Start lgbm predicting
+2025-02-12 20:02:52 End lgbm predicting
+2025-02-12 20:02:52 Start sending msg
+2025-02-12 20:02:52 End sending msg
+2025-02-12 21:01:06 Start loading hourly data
+2025-02-12 21:02:20 End loading hourly data
+2025-02-12 21:02:20 Start preproc hourly data
+2025-02-12 21:02:20 End preproc hourly data
+2025-02-12 21:02:20 Start prepare data to lgbm
+2025-02-12 21:02:53 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 21:03:03 End prepare data to lgbm
+2025-02-12 21:03:03 Start lgbm predicting
+2025-02-12 21:03:03 End lgbm predicting
+2025-02-12 21:03:03 Start sending msg
+2025-02-12 21:03:03 End sending msg
+2025-02-12 22:01:06 Start loading hourly data
+2025-02-12 22:02:11 End loading hourly data
+2025-02-12 22:02:11 Start preproc hourly data
+2025-02-12 22:02:12 End preproc hourly data
+2025-02-12 22:02:12 Start prepare data to lgbm
+2025-02-12 22:02:54 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 22:03:06 End prepare data to lgbm
+2025-02-12 22:03:06 Start lgbm predicting
+2025-02-12 22:03:06 End lgbm predicting
+2025-02-12 22:03:06 Start sending msg
+2025-02-12 22:03:07 End sending msg
+2025-02-12 23:01:04 Start loading hourly data
+2025-02-12 23:02:05 End loading hourly data
+2025-02-12 23:02:05 Start preproc hourly data
+2025-02-12 23:02:06 End preproc hourly data
+2025-02-12 23:02:06 Start prepare data to lgbm
+2025-02-12 23:02:38 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-12/X5.pkl')
+2025-02-12 23:02:47 End prepare data to lgbm
+2025-02-12 23:02:47 Start lgbm predicting
+2025-02-12 23:02:47 End lgbm predicting
+2025-02-12 23:02:47 Start sending msg
+2025-02-12 23:02:48 End sending msg
+2025-02-13 10:01:01 Start loading figi data
+2025-02-13 10:01:04 End loading figi data
+2025-02-13 10:01:04 Start loading daily data
+2025-02-13 10:01:37 End loading daily data
+2025-02-13 10:01:37 Start preproc daily data
+2025-02-13 10:01:37 X5: failed to preproc daily data (Error len)
+2025-02-13 10:01:37 End preproc daily data
+2025-02-13 10:03:07 Start loading hourly data
+2025-02-13 10:04:07 End loading hourly data
+2025-02-13 10:04:07 Start preproc hourly data
+2025-02-13 10:04:08 End preproc hourly data
+2025-02-13 10:04:08 Start prepare data to lgbm
+2025-02-13 10:04:39 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 10:04:49 End prepare data to lgbm
+2025-02-13 10:04:49 Start lgbm predicting
+2025-02-13 10:04:49 End lgbm predicting
+2025-02-13 10:04:49 Start sending msg
+2025-02-13 10:04:49 End sending msg
+2025-02-13 10:50:03 Start loading figi data
+2025-02-13 10:50:05 End loading figi data
+2025-02-13 10:50:05 Start loading daily data
+2025-02-13 10:50:36 End loading daily data
+2025-02-13 10:50:36 Start preproc daily data
+2025-02-13 10:50:36 X5: failed to preproc daily data (Error len)
+2025-02-13 10:50:36 End preproc daily data
+2025-02-13 10:50:46 Start loading figi data
+2025-02-13 10:50:48 End loading figi data
+2025-02-13 10:50:48 Start loading daily data
+2025-02-13 10:51:18 End loading daily data
+2025-02-13 10:51:18 Start preproc daily data
+2025-02-13 10:51:18 X5: failed to preproc daily data (Error len)
+2025-02-13 10:51:19 End preproc daily data
+2025-02-13 11:01:09 Start loading hourly data
+2025-02-13 11:02:07 End loading hourly data
+2025-02-13 11:02:07 Start preproc hourly data
+2025-02-13 11:02:08 End preproc hourly data
+2025-02-13 11:02:08 Start prepare data to lgbm
+2025-02-13 11:02:40 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 11:02:49 End prepare data to lgbm
+2025-02-13 11:02:49 Start lgbm predicting
+2025-02-13 11:02:49 End lgbm predicting
+2025-02-13 11:02:49 Start sending msg
+2025-02-13 11:02:50 End sending msg
+2025-02-13 12:01:04 Start loading hourly data
+2025-02-13 12:01:55 End loading hourly data
+2025-02-13 12:01:55 Start preproc hourly data
+2025-02-13 12:01:56 End preproc hourly data
+2025-02-13 12:01:56 Start prepare data to lgbm
+2025-02-13 12:02:30 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 12:02:41 End prepare data to lgbm
+2025-02-13 12:02:41 Start lgbm predicting
+2025-02-13 12:02:41 End lgbm predicting
+2025-02-13 12:02:41 Start sending msg
+2025-02-13 12:02:41 End sending msg
+2025-02-13 13:01:05 Start loading hourly data
+2025-02-13 13:01:55 End loading hourly data
+2025-02-13 13:01:55 Start preproc hourly data
+2025-02-13 13:01:56 End preproc hourly data
+2025-02-13 13:01:56 Start prepare data to lgbm
+2025-02-13 13:02:28 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 13:02:38 End prepare data to lgbm
+2025-02-13 13:02:38 Start lgbm predicting
+2025-02-13 13:02:38 End lgbm predicting
+2025-02-13 13:02:38 Start sending msg
+2025-02-13 13:02:39 End sending msg
+2025-02-13 14:01:03 Start loading hourly data
+2025-02-13 14:01:52 End loading hourly data
+2025-02-13 14:01:52 Start preproc hourly data
+2025-02-13 14:01:53 End preproc hourly data
+2025-02-13 14:01:53 Start prepare data to lgbm
+2025-02-13 14:02:27 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 14:02:37 End prepare data to lgbm
+2025-02-13 14:02:37 Start lgbm predicting
+2025-02-13 14:02:37 End lgbm predicting
+2025-02-13 14:02:37 Start sending msg
+2025-02-13 14:02:37 End sending msg
+2025-02-13 15:01:01 Start loading hourly data
+2025-02-13 15:01:49 End loading hourly data
+2025-02-13 15:01:49 Start preproc hourly data
+2025-02-13 15:01:49 End preproc hourly data
+2025-02-13 15:01:49 Start prepare data to lgbm
+2025-02-13 15:02:22 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 15:02:32 End prepare data to lgbm
+2025-02-13 15:02:32 Start lgbm predicting
+2025-02-13 15:02:32 End lgbm predicting
+2025-02-13 15:02:32 Start sending msg
+2025-02-13 15:02:32 End sending msg
+2025-02-13 16:01:05 Start loading hourly data
+2025-02-13 16:01:58 End loading hourly data
+2025-02-13 16:01:58 Start preproc hourly data
+2025-02-13 16:01:59 End preproc hourly data
+2025-02-13 16:01:59 Start prepare data to lgbm
+2025-02-13 16:02:31 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 16:02:41 End prepare data to lgbm
+2025-02-13 16:02:41 Start lgbm predicting
+2025-02-13 16:02:41 End lgbm predicting
+2025-02-13 16:02:41 Start sending msg
+2025-02-13 16:02:41 End sending msg
+2025-02-13 17:01:04 Start loading hourly data
+2025-02-13 17:01:47 End loading hourly data
+2025-02-13 17:01:47 Start preproc hourly data
+2025-02-13 17:01:47 End preproc hourly data
+2025-02-13 17:01:47 Start prepare data to lgbm
+2025-02-13 17:02:25 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 17:02:37 End prepare data to lgbm
+2025-02-13 17:02:37 Start lgbm predicting
+2025-02-13 17:02:37 End lgbm predicting
+2025-02-13 17:02:37 Start sending msg
+2025-02-13 17:02:37 End sending msg
+2025-02-13 18:01:00 Start loading hourly data
+2025-02-13 18:01:43 End loading hourly data
+2025-02-13 18:01:43 Start preproc hourly data
+2025-02-13 18:01:44 End preproc hourly data
+2025-02-13 18:01:44 Start prepare data to lgbm
+2025-02-13 18:02:22 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 18:02:33 End prepare data to lgbm
+2025-02-13 18:02:33 Start lgbm predicting
+2025-02-13 18:02:33 End lgbm predicting
+2025-02-13 18:02:33 Start sending msg
+2025-02-13 18:02:33 End sending msg
+2025-02-13 19:01:06 Start loading hourly data
+2025-02-13 19:05:02 AFLT: failed to load hourly data
+2025-02-13 19:08:57 IRAO: failed to load hourly data
+2025-02-13 19:12:53 MVID: failed to load hourly data
+2025-02-13 19:16:08 OGKB: failed to load hourly data
+2025-02-13 19:18:48 SPBE: failed to load hourly data
+2025-02-13 19:19:02 MTLRP: failed to load hourly data
+2025-02-13 19:19:11 SFIN: failed to load hourly data
+2025-02-13 19:19:25 KMAZ: failed to load hourly data
+2025-02-13 19:19:34 CBOM: failed to load hourly data
+2025-02-13 19:19:48 MSNG: failed to load hourly data
+2025-02-13 19:19:57 FEES: failed to load hourly data
+2025-02-13 19:20:07 LKOH: failed to load hourly data
+2025-02-13 19:20:21 FESH: failed to load hourly data
+2025-02-13 19:20:30 KROT: failed to load hourly data
+2025-02-13 19:20:44 LENT: failed to load hourly data
+2025-02-13 19:20:53 MDMG: failed to load hourly data
+2025-02-13 19:21:07 NKNCP: failed to load hourly data
+2025-02-13 19:21:16 VKCO: failed to load hourly data
+2025-02-13 19:21:30 UPRO: failed to load hourly data
+2025-02-13 19:21:39 MRKY: failed to load hourly data
+2025-02-13 19:21:53 SELG: failed to load hourly data
+2025-02-13 19:22:03 SGZH: failed to load hourly data
+2025-02-13 19:22:12 AKRN: failed to load hourly data
+2025-02-13 19:22:26 CHMK: failed to load hourly data
+2025-02-13 19:22:35 ENPG: failed to load hourly data
+2025-02-13 19:22:49 YAKG: failed to load hourly data
+2025-02-13 19:22:58 PMSBP: failed to load hourly data
+2025-02-13 19:23:12 RKKE: failed to load hourly data
+2025-02-13 19:23:21 GEMC: failed to load hourly data
+2025-02-13 19:23:35 LSRG: failed to load hourly data
+2025-02-13 19:23:45 MRKZ: failed to load hourly data
+2025-02-13 19:23:59 BANE: failed to load hourly data
+2025-02-13 19:24:08 CNTL: failed to load hourly data
+2025-02-13 19:24:17 PMSB: failed to load hourly data
+2025-02-13 19:24:31 KRKNP: failed to load hourly data
+2025-02-13 19:24:40 NMTP: failed to load hourly data
+2025-02-13 19:24:54 PLZL: failed to load hourly data
+2025-02-13 19:25:03 TATN: failed to load hourly data
+2025-02-13 19:25:17 AFKS: failed to load hourly data
+2025-02-13 19:25:27 UNKL: failed to load hourly data
+2025-02-13 19:25:41 APTK: failed to load hourly data
+2025-02-13 19:25:50 LNZL: failed to load hourly data
+2025-02-13 19:26:04 GMKN: failed to load hourly data
+2025-02-13 19:26:13 NSVZ: failed to load hourly data
+2025-02-13 19:26:22 LIFE: failed to load hourly data
+2025-02-13 19:26:36 RNFT: failed to load hourly data
+2025-02-13 19:26:45 VRSB: failed to load hourly data
+2025-02-13 19:26:59 YDEX: failed to load hourly data
+2025-02-13 19:27:09 UWGN: failed to load hourly data
+2025-02-13 19:27:23 TGKN: failed to load hourly data
+2025-02-13 19:27:32 ABRD: failed to load hourly data
+2025-02-13 19:27:46 HYDR: failed to load hourly data
+2025-02-13 19:27:55 ABIO: failed to load hourly data
+2025-02-13 19:28:09 WUSH: failed to load hourly data
+2025-02-13 19:28:18 RTKMP: failed to load hourly data
+2025-02-13 19:28:27 GTRK: failed to load hourly data
+2025-02-13 19:28:41 NLMK: failed to load hourly data
+2025-02-13 19:28:50 TATNP: failed to load hourly data
+2025-02-13 19:29:04 CNTLP: failed to load hourly data
+2025-02-13 19:29:13 BLNG: failed to load hourly data
+2025-02-13 19:29:27 ALRS: failed to load hourly data
+2025-02-13 19:29:36 GCHE: failed to load hourly data
+2025-02-13 19:29:50 VSMO: failed to load hourly data
+2025-02-13 19:29:59 LSNG: failed to load hourly data
+2025-02-13 19:30:13 TRNFP: failed to load hourly data
+2025-02-13 19:30:22 MGNT: failed to load hourly data
+2025-02-13 19:30:31 RENI: failed to load hourly data
+2025-02-13 19:30:45 NKHP: failed to load hourly data
+2025-02-13 19:30:54 TGKB: failed to load hourly data
+2025-02-13 19:31:08 ROLO: failed to load hourly data
+2025-02-13 19:31:18 IRKT: failed to load hourly data
+2025-02-13 19:31:32 MGTSP: failed to load hourly data
+2025-02-13 19:31:41 MTLR: failed to load hourly data
+2025-02-13 19:31:55 TGKA: failed to load hourly data
+2025-02-13 19:32:04 MSRS: failed to load hourly data
+2025-02-13 19:32:13 HEAD: failed to load hourly data
+2025-02-13 19:32:27 RUAL: failed to load hourly data
+2025-02-13 19:32:36 MRKV: failed to load hourly data
+2025-02-13 19:32:50 KLSB: failed to load hourly data
+2025-02-13 19:32:59 SIBN: failed to load hourly data
+2025-02-13 19:33:13 SNGS: failed to load hourly data
+2025-02-13 19:33:22 MSTT: failed to load hourly data
+2025-02-13 19:33:36 KAZTP: failed to load hourly data
+2025-02-13 19:33:45 DVEC: failed to load hourly data
+2025-02-13 19:33:59 NVTK: failed to load hourly data
+2025-02-13 19:34:08 RASP: failed to load hourly data
+2025-02-13 19:34:17 VTBR: failed to load hourly data
+2025-02-13 19:34:31 PHOR: failed to load hourly data
+2025-02-13 19:34:40 TTLK: failed to load hourly data
+2025-02-13 19:34:54 NKNC: failed to load hourly data
+2025-02-13 19:35:03 T: failed to load hourly data
+2025-02-13 19:35:17 KAZT: failed to load hourly data
+2025-02-13 19:35:26 AMEZ: failed to load hourly data
+2025-02-13 19:35:40 MRKU: failed to load hourly data
+2025-02-13 19:35:50 TRMK: failed to load hourly data
+2025-02-13 19:36:04 MOEX: failed to load hourly data
+2025-02-13 19:36:13 SBERP: failed to load hourly data
+2025-02-13 19:36:22 X5: failed to load hourly data
+2025-02-13 19:36:36 CHMF: failed to load hourly data
+2025-02-13 19:36:45 RTKM: failed to load hourly data
+2025-02-13 19:36:59 SMLT: failed to load hourly data
+2025-02-13 19:37:08 LNZLP: failed to load hourly data
+2025-02-13 19:37:22 MRKC: failed to load hourly data
+2025-02-13 19:37:31 MRKP: failed to load hourly data
+2025-02-13 19:37:45 UNAC: failed to load hourly data
+2025-02-13 19:37:54 KZOSP: failed to load hourly data
+2025-02-13 19:38:03 GAZP: failed to load hourly data
+2025-02-13 19:38:17 ROSN: failed to load hourly data
+2025-02-13 19:38:26 BELU: failed to load hourly data
+2025-02-13 19:38:40 ELFV: failed to load hourly data
+2025-02-13 19:38:50 FLOT: failed to load hourly data
+2025-02-13 19:39:04 PIKK: failed to load hourly data
+2025-02-13 19:39:13 LSNGP: failed to load hourly data
+2025-02-13 19:39:27 SVAV: failed to load hourly data
+2025-02-13 19:39:36 TGKBP: failed to load hourly data
+2025-02-13 19:39:50 POSI: failed to load hourly data
+2025-02-13 19:39:59 KZOS: failed to load hourly data
+2025-02-13 19:40:08 MRKS: failed to load hourly data
+2025-02-13 19:40:22 SNGSP: failed to load hourly data
+2025-02-13 19:40:31 MTSS: failed to load hourly data
+2025-02-13 19:40:45 MAGN: failed to load hourly data
+2025-02-13 19:40:54 PRFN: failed to load hourly data
+2025-02-13 19:41:08 SBER: failed to load hourly data
+2025-02-13 19:41:18 BANEP: failed to load hourly data
+2025-02-13 19:41:32 BSPB: failed to load hourly data
+2025-02-13 19:41:41 AQUA: failed to load hourly data
+2025-02-13 19:41:55 RBCM: failed to load hourly data
+2025-02-13 19:42:04 TMOS: failed to load hourly data
+2025-02-13 19:42:04 End loading hourly data
+2025-02-13 19:42:04 Start preproc hourly data
+2025-02-13 19:42:04 TMOS: failed to preproc hourly data
+2025-02-13 19:42:04 Start prepare data to lgbm
+2025-02-13 19:42:04 AFLT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/AFLT.pkl')
+2025-02-13 19:42:04 IRAO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/IRAO.pkl')
+2025-02-13 19:42:04 MVID: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MVID.pkl')
+2025-02-13 19:42:04 OGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/OGKB.pkl')
+2025-02-13 19:42:04 SPBE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SPBE.pkl')
+2025-02-13 19:42:04 MTLRP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MTLRP.pkl')
+2025-02-13 19:42:04 SFIN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SFIN.pkl')
+2025-02-13 19:42:04 KMAZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/KMAZ.pkl')
+2025-02-13 19:42:04 CBOM: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/CBOM.pkl')
+2025-02-13 19:42:04 MSNG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MSNG.pkl')
+2025-02-13 19:42:04 FEES: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/FEES.pkl')
+2025-02-13 19:42:04 LKOH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/LKOH.pkl')
+2025-02-13 19:42:04 FESH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/FESH.pkl')
+2025-02-13 19:42:04 KROT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/KROT.pkl')
+2025-02-13 19:42:04 LENT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/LENT.pkl')
+2025-02-13 19:42:04 MDMG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MDMG.pkl')
+2025-02-13 19:42:04 NKNCP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/NKNCP.pkl')
+2025-02-13 19:42:04 VKCO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/VKCO.pkl')
+2025-02-13 19:42:04 UPRO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/UPRO.pkl')
+2025-02-13 19:42:04 MRKY: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MRKY.pkl')
+2025-02-13 19:42:04 SELG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SELG.pkl')
+2025-02-13 19:42:04 SGZH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SGZH.pkl')
+2025-02-13 19:42:04 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/AKRN.pkl')
+2025-02-13 19:42:04 CHMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/CHMK.pkl')
+2025-02-13 19:42:04 ENPG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/ENPG.pkl')
+2025-02-13 19:42:04 YAKG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/YAKG.pkl')
+2025-02-13 19:42:04 PMSBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/PMSBP.pkl')
+2025-02-13 19:42:04 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/RKKE.pkl')
+2025-02-13 19:42:04 GEMC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/GEMC.pkl')
+2025-02-13 19:42:04 LSRG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/LSRG.pkl')
+2025-02-13 19:42:04 MRKZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MRKZ.pkl')
+2025-02-13 19:42:04 BANE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/BANE.pkl')
+2025-02-13 19:42:04 CNTL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/CNTL.pkl')
+2025-02-13 19:42:04 PMSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/PMSB.pkl')
+2025-02-13 19:42:04 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/KRKNP.pkl')
+2025-02-13 19:42:04 NMTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/NMTP.pkl')
+2025-02-13 19:42:04 PLZL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/PLZL.pkl')
+2025-02-13 19:42:04 TATN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/TATN.pkl')
+2025-02-13 19:42:04 AFKS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/AFKS.pkl')
+2025-02-13 19:42:04 UNKL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/UNKL.pkl')
+2025-02-13 19:42:04 APTK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/APTK.pkl')
+2025-02-13 19:42:04 LNZL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/LNZL.pkl')
+2025-02-13 19:42:04 GMKN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/GMKN.pkl')
+2025-02-13 19:42:04 NSVZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/NSVZ.pkl')
+2025-02-13 19:42:04 LIFE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/LIFE.pkl')
+2025-02-13 19:42:04 RNFT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/RNFT.pkl')
+2025-02-13 19:42:04 VRSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/VRSB.pkl')
+2025-02-13 19:42:04 YDEX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/YDEX.pkl')
+2025-02-13 19:42:04 UWGN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/UWGN.pkl')
+2025-02-13 19:42:04 TGKN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/TGKN.pkl')
+2025-02-13 19:42:04 ABRD: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/ABRD.pkl')
+2025-02-13 19:42:04 HYDR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/HYDR.pkl')
+2025-02-13 19:42:04 ABIO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/ABIO.pkl')
+2025-02-13 19:42:04 WUSH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/WUSH.pkl')
+2025-02-13 19:42:04 RTKMP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/RTKMP.pkl')
+2025-02-13 19:42:04 GTRK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/GTRK.pkl')
+2025-02-13 19:42:04 NLMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/NLMK.pkl')
+2025-02-13 19:42:04 TATNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/TATNP.pkl')
+2025-02-13 19:42:04 CNTLP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/CNTLP.pkl')
+2025-02-13 19:42:04 BLNG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/BLNG.pkl')
+2025-02-13 19:42:04 ALRS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/ALRS.pkl')
+2025-02-13 19:42:04 GCHE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/GCHE.pkl')
+2025-02-13 19:42:04 VSMO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/VSMO.pkl')
+2025-02-13 19:42:04 LSNG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/LSNG.pkl')
+2025-02-13 19:42:04 TRNFP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/TRNFP.pkl')
+2025-02-13 19:42:04 MGNT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MGNT.pkl')
+2025-02-13 19:42:04 RENI: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/RENI.pkl')
+2025-02-13 19:42:04 NKHP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/NKHP.pkl')
+2025-02-13 19:42:04 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/TGKB.pkl')
+2025-02-13 19:42:04 ROLO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/ROLO.pkl')
+2025-02-13 19:42:04 IRKT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/IRKT.pkl')
+2025-02-13 19:42:04 MGTSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MGTSP.pkl')
+2025-02-13 19:42:04 MTLR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MTLR.pkl')
+2025-02-13 19:42:04 TGKA: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/TGKA.pkl')
+2025-02-13 19:42:04 MSRS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MSRS.pkl')
+2025-02-13 19:42:04 HEAD: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/HEAD.pkl')
+2025-02-13 19:42:04 RUAL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/RUAL.pkl')
+2025-02-13 19:42:04 MRKV: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MRKV.pkl')
+2025-02-13 19:42:04 KLSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/KLSB.pkl')
+2025-02-13 19:42:04 SIBN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SIBN.pkl')
+2025-02-13 19:42:04 SNGS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SNGS.pkl')
+2025-02-13 19:42:04 MSTT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MSTT.pkl')
+2025-02-13 19:42:04 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/KAZTP.pkl')
+2025-02-13 19:42:04 DVEC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/DVEC.pkl')
+2025-02-13 19:42:04 NVTK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/NVTK.pkl')
+2025-02-13 19:42:04 RASP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/RASP.pkl')
+2025-02-13 19:42:04 VTBR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/VTBR.pkl')
+2025-02-13 19:42:04 PHOR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/PHOR.pkl')
+2025-02-13 19:42:04 TTLK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/TTLK.pkl')
+2025-02-13 19:42:04 NKNC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/NKNC.pkl')
+2025-02-13 19:42:04 T: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/T.pkl')
+2025-02-13 19:42:04 KAZT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/KAZT.pkl')
+2025-02-13 19:42:04 AMEZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/AMEZ.pkl')
+2025-02-13 19:42:04 MRKU: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MRKU.pkl')
+2025-02-13 19:42:04 TRMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/TRMK.pkl')
+2025-02-13 19:42:04 MOEX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MOEX.pkl')
+2025-02-13 19:42:04 SBERP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SBERP.pkl')
+2025-02-13 19:42:04 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 19:42:04 CHMF: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/CHMF.pkl')
+2025-02-13 19:42:04 RTKM: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/RTKM.pkl')
+2025-02-13 19:42:04 SMLT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SMLT.pkl')
+2025-02-13 19:42:04 LNZLP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/LNZLP.pkl')
+2025-02-13 19:42:04 MRKC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MRKC.pkl')
+2025-02-13 19:42:04 MRKP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MRKP.pkl')
+2025-02-13 19:42:04 UNAC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/UNAC.pkl')
+2025-02-13 19:42:04 KZOSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/KZOSP.pkl')
+2025-02-13 19:42:04 GAZP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/GAZP.pkl')
+2025-02-13 19:42:04 ROSN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/ROSN.pkl')
+2025-02-13 19:42:04 BELU: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/BELU.pkl')
+2025-02-13 19:42:04 ELFV: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/ELFV.pkl')
+2025-02-13 19:42:04 FLOT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/FLOT.pkl')
+2025-02-13 19:42:04 PIKK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/PIKK.pkl')
+2025-02-13 19:42:04 LSNGP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/LSNGP.pkl')
+2025-02-13 19:42:04 SVAV: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SVAV.pkl')
+2025-02-13 19:42:04 TGKBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/TGKBP.pkl')
+2025-02-13 19:42:04 POSI: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/POSI.pkl')
+2025-02-13 19:42:04 KZOS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/KZOS.pkl')
+2025-02-13 19:42:04 MRKS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MRKS.pkl')
+2025-02-13 19:42:04 SNGSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SNGSP.pkl')
+2025-02-13 19:42:04 MTSS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MTSS.pkl')
+2025-02-13 19:42:04 MAGN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/MAGN.pkl')
+2025-02-13 19:42:04 PRFN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/PRFN.pkl')
+2025-02-13 19:42:04 SBER: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/SBER.pkl')
+2025-02-13 19:42:04 BANEP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/BANEP.pkl')
+2025-02-13 19:42:04 BSPB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/BSPB.pkl')
+2025-02-13 19:42:04 AQUA: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/AQUA.pkl')
+2025-02-13 19:42:04 RBCM: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_19/RBCM.pkl')
+2025-02-13 19:42:04 Failed to prepare data to lgbm (No objects to concatenate)
+2025-02-13 19:42:04 End prepare data to lgbm
+2025-02-13 19:42:04 Start lgbm predicting
+2025-02-13 19:42:04 Failed lgbm predicting ([Errno 2] No such file or directory: './data/lgbm/data_lgbm_2025-02-13_19.pkl')
+2025-02-13 19:42:04 End lgbm predicting
+2025-02-13 19:42:04 Start sending msg
+2025-02-13 19:42:04 Failed sending msg ([Errno 2] No such file or directory: './data/result/data_result_2025-02-13_19.pkl')
+2025-02-13 19:42:04 End sending msg
+2025-02-13 20:01:57 Start loading hourly data
+2025-02-13 20:02:06 AFLT: failed to load hourly data
+2025-02-13 20:02:15 IRAO: failed to load hourly data
+2025-02-13 20:02:24 MVID: failed to load hourly data
+2025-02-13 20:02:33 OGKB: failed to load hourly data
+2025-02-13 20:02:43 SPBE: failed to load hourly data
+2025-02-13 20:02:52 MTLRP: failed to load hourly data
+2025-02-13 20:03:01 SFIN: failed to load hourly data
+2025-02-13 20:03:10 KMAZ: failed to load hourly data
+2025-02-13 20:03:19 CBOM: failed to load hourly data
+2025-02-13 20:03:28 MSNG: failed to load hourly data
+2025-02-13 20:03:37 FEES: failed to load hourly data
+2025-02-13 20:03:46 LKOH: failed to load hourly data
+2025-02-13 20:03:55 FESH: failed to load hourly data
+2025-02-13 20:04:04 KROT: failed to load hourly data
+2025-02-13 20:04:13 LENT: failed to load hourly data
+2025-02-13 20:04:22 MDMG: failed to load hourly data
+2025-02-13 20:04:31 NKNCP: failed to load hourly data
+2025-02-13 20:04:40 VKCO: failed to load hourly data
+2025-02-13 20:04:49 UPRO: failed to load hourly data
+2025-02-13 20:04:58 MRKY: failed to load hourly data
+2025-02-13 20:05:07 SELG: failed to load hourly data
+2025-02-13 20:05:16 SGZH: failed to load hourly data
+2025-02-13 20:05:25 AKRN: failed to load hourly data
+2025-02-13 20:05:34 CHMK: failed to load hourly data
+2025-02-13 20:05:43 ENPG: failed to load hourly data
+2025-02-13 20:05:52 YAKG: failed to load hourly data
+2025-02-13 20:06:02 PMSBP: failed to load hourly data
+2025-02-13 20:06:11 RKKE: failed to load hourly data
+2025-02-13 20:06:20 GEMC: failed to load hourly data
+2025-02-13 20:06:29 LSRG: failed to load hourly data
+2025-02-13 20:06:38 MRKZ: failed to load hourly data
+2025-02-13 20:06:47 BANE: failed to load hourly data
+2025-02-13 20:06:56 CNTL: failed to load hourly data
+2025-02-13 20:07:05 PMSB: failed to load hourly data
+2025-02-13 20:07:15 KRKNP: failed to load hourly data
+2025-02-13 20:07:24 NMTP: failed to load hourly data
+2025-02-13 20:07:33 PLZL: failed to load hourly data
+2025-02-13 20:07:42 TATN: failed to load hourly data
+2025-02-13 20:07:51 AFKS: failed to load hourly data
+2025-02-13 20:08:00 UNKL: failed to load hourly data
+2025-02-13 20:08:09 APTK: failed to load hourly data
+2025-02-13 20:08:18 LNZL: failed to load hourly data
+2025-02-13 20:08:28 GMKN: failed to load hourly data
+2025-02-13 20:08:37 NSVZ: failed to load hourly data
+2025-02-13 20:08:46 LIFE: failed to load hourly data
+2025-02-13 20:08:55 RNFT: failed to load hourly data
+2025-02-13 20:09:04 VRSB: failed to load hourly data
+2025-02-13 20:09:13 YDEX: failed to load hourly data
+2025-02-13 20:09:22 UWGN: failed to load hourly data
+2025-02-13 20:09:31 TGKN: failed to load hourly data
+2025-02-13 20:09:41 ABRD: failed to load hourly data
+2025-02-13 20:09:50 HYDR: failed to load hourly data
+2025-02-13 20:09:59 ABIO: failed to load hourly data
+2025-02-13 20:10:08 WUSH: failed to load hourly data
+2025-02-13 20:10:17 RTKMP: failed to load hourly data
+2025-02-13 20:10:26 GTRK: failed to load hourly data
+2025-02-13 20:10:35 NLMK: failed to load hourly data
+2025-02-13 20:10:44 TATNP: failed to load hourly data
+2025-02-13 20:10:54 CNTLP: failed to load hourly data
+2025-02-13 20:11:03 BLNG: failed to load hourly data
+2025-02-13 20:11:12 ALRS: failed to load hourly data
+2025-02-13 20:11:21 GCHE: failed to load hourly data
+2025-02-13 20:11:30 VSMO: failed to load hourly data
+2025-02-13 20:11:39 LSNG: failed to load hourly data
+2025-02-13 20:11:48 TRNFP: failed to load hourly data
+2025-02-13 20:11:57 MGNT: failed to load hourly data
+2025-02-13 20:12:07 RENI: failed to load hourly data
+2025-02-13 20:12:16 NKHP: failed to load hourly data
+2025-02-13 20:12:25 TGKB: failed to load hourly data
+2025-02-13 20:12:34 ROLO: failed to load hourly data
+2025-02-13 20:12:43 IRKT: failed to load hourly data
+2025-02-13 20:12:52 MGTSP: failed to load hourly data
+2025-02-13 20:13:01 MTLR: failed to load hourly data
+2025-02-13 20:13:10 TGKA: failed to load hourly data
+2025-02-13 20:13:19 MSRS: failed to load hourly data
+2025-02-13 20:13:29 HEAD: failed to load hourly data
+2025-02-13 20:13:38 RUAL: failed to load hourly data
+2025-02-13 20:13:47 MRKV: failed to load hourly data
+2025-02-13 20:13:56 KLSB: failed to load hourly data
+2025-02-13 20:14:05 SIBN: failed to load hourly data
+2025-02-13 20:14:14 SNGS: failed to load hourly data
+2025-02-13 20:14:23 MSTT: failed to load hourly data
+2025-02-13 20:14:33 KAZTP: failed to load hourly data
+2025-02-13 20:14:42 DVEC: failed to load hourly data
+2025-02-13 20:14:51 NVTK: failed to load hourly data
+2025-02-13 20:15:00 RASP: failed to load hourly data
+2025-02-13 20:15:09 VTBR: failed to load hourly data
+2025-02-13 20:15:18 PHOR: failed to load hourly data
+2025-02-13 20:15:27 TTLK: failed to load hourly data
+2025-02-13 20:15:36 NKNC: failed to load hourly data
+2025-02-13 20:15:46 T: failed to load hourly data
+2025-02-13 20:15:55 KAZT: failed to load hourly data
+2025-02-13 20:16:24 AMEZ: failed to load hourly data
+2025-02-13 20:16:33 MRKU: failed to load hourly data
+2025-02-13 20:16:42 TRMK: failed to load hourly data
+2025-02-13 20:16:51 MOEX: failed to load hourly data
+2025-02-13 20:17:00 SBERP: failed to load hourly data
+2025-02-13 20:17:10 X5: failed to load hourly data
+2025-02-13 20:17:19 CHMF: failed to load hourly data
+2025-02-13 20:17:28 RTKM: failed to load hourly data
+2025-02-13 20:17:37 SMLT: failed to load hourly data
+2025-02-13 20:17:46 LNZLP: failed to load hourly data
+2025-02-13 20:17:55 MRKC: failed to load hourly data
+2025-02-13 20:18:04 MRKP: failed to load hourly data
+2025-02-13 20:18:13 UNAC: failed to load hourly data
+2025-02-13 20:18:23 KZOSP: failed to load hourly data
+2025-02-13 20:18:32 GAZP: failed to load hourly data
+2025-02-13 20:18:41 ROSN: failed to load hourly data
+2025-02-13 20:18:50 BELU: failed to load hourly data
+2025-02-13 20:18:59 ELFV: failed to load hourly data
+2025-02-13 20:19:08 FLOT: failed to load hourly data
+2025-02-13 20:19:17 PIKK: failed to load hourly data
+2025-02-13 20:19:26 LSNGP: failed to load hourly data
+2025-02-13 20:19:36 SVAV: failed to load hourly data
+2025-02-13 20:19:45 TGKBP: failed to load hourly data
+2025-02-13 20:19:54 POSI: failed to load hourly data
+2025-02-13 20:20:03 KZOS: failed to load hourly data
+2025-02-13 20:20:12 MRKS: failed to load hourly data
+2025-02-13 20:20:21 SNGSP: failed to load hourly data
+2025-02-13 20:20:30 MTSS: failed to load hourly data
+2025-02-13 20:20:39 MAGN: failed to load hourly data
+2025-02-13 20:20:49 PRFN: failed to load hourly data
+2025-02-13 20:20:58 SBER: failed to load hourly data
+2025-02-13 20:21:07 BANEP: failed to load hourly data
+2025-02-13 20:21:16 BSPB: failed to load hourly data
+2025-02-13 20:21:25 AQUA: failed to load hourly data
+2025-02-13 20:21:34 RBCM: failed to load hourly data
+2025-02-13 20:21:43 TMOS: failed to load hourly data
+2025-02-13 20:21:43 End loading hourly data
+2025-02-13 20:21:43 Start preproc hourly data
+2025-02-13 20:21:43 TMOS: failed to preproc hourly data
+2025-02-13 20:21:43 Start prepare data to lgbm
+2025-02-13 20:21:43 AFLT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/AFLT.pkl')
+2025-02-13 20:21:43 IRAO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/IRAO.pkl')
+2025-02-13 20:21:43 MVID: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MVID.pkl')
+2025-02-13 20:21:43 OGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/OGKB.pkl')
+2025-02-13 20:21:43 SPBE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SPBE.pkl')
+2025-02-13 20:21:43 MTLRP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MTLRP.pkl')
+2025-02-13 20:21:43 SFIN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SFIN.pkl')
+2025-02-13 20:21:43 KMAZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/KMAZ.pkl')
+2025-02-13 20:21:43 CBOM: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/CBOM.pkl')
+2025-02-13 20:21:43 MSNG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MSNG.pkl')
+2025-02-13 20:21:43 FEES: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/FEES.pkl')
+2025-02-13 20:21:43 LKOH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/LKOH.pkl')
+2025-02-13 20:21:43 FESH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/FESH.pkl')
+2025-02-13 20:21:43 KROT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/KROT.pkl')
+2025-02-13 20:21:43 LENT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/LENT.pkl')
+2025-02-13 20:21:43 MDMG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MDMG.pkl')
+2025-02-13 20:21:43 NKNCP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/NKNCP.pkl')
+2025-02-13 20:21:43 VKCO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/VKCO.pkl')
+2025-02-13 20:21:43 UPRO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/UPRO.pkl')
+2025-02-13 20:21:43 MRKY: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MRKY.pkl')
+2025-02-13 20:21:43 SELG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SELG.pkl')
+2025-02-13 20:21:43 SGZH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SGZH.pkl')
+2025-02-13 20:21:43 AKRN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/AKRN.pkl')
+2025-02-13 20:21:43 CHMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/CHMK.pkl')
+2025-02-13 20:21:43 ENPG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/ENPG.pkl')
+2025-02-13 20:21:43 YAKG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/YAKG.pkl')
+2025-02-13 20:21:43 PMSBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/PMSBP.pkl')
+2025-02-13 20:21:43 RKKE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/RKKE.pkl')
+2025-02-13 20:21:43 GEMC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/GEMC.pkl')
+2025-02-13 20:21:43 LSRG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/LSRG.pkl')
+2025-02-13 20:21:43 MRKZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MRKZ.pkl')
+2025-02-13 20:21:43 BANE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/BANE.pkl')
+2025-02-13 20:21:43 CNTL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/CNTL.pkl')
+2025-02-13 20:21:43 PMSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/PMSB.pkl')
+2025-02-13 20:21:43 KRKNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/KRKNP.pkl')
+2025-02-13 20:21:43 NMTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/NMTP.pkl')
+2025-02-13 20:21:43 PLZL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/PLZL.pkl')
+2025-02-13 20:21:43 TATN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/TATN.pkl')
+2025-02-13 20:21:43 AFKS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/AFKS.pkl')
+2025-02-13 20:21:43 UNKL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/UNKL.pkl')
+2025-02-13 20:21:43 APTK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/APTK.pkl')
+2025-02-13 20:21:43 LNZL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/LNZL.pkl')
+2025-02-13 20:21:43 GMKN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/GMKN.pkl')
+2025-02-13 20:21:43 NSVZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/NSVZ.pkl')
+2025-02-13 20:21:43 LIFE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/LIFE.pkl')
+2025-02-13 20:21:43 RNFT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/RNFT.pkl')
+2025-02-13 20:21:43 VRSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/VRSB.pkl')
+2025-02-13 20:21:43 YDEX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/YDEX.pkl')
+2025-02-13 20:21:43 UWGN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/UWGN.pkl')
+2025-02-13 20:21:43 TGKN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/TGKN.pkl')
+2025-02-13 20:21:43 ABRD: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/ABRD.pkl')
+2025-02-13 20:21:43 HYDR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/HYDR.pkl')
+2025-02-13 20:21:43 ABIO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/ABIO.pkl')
+2025-02-13 20:21:43 WUSH: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/WUSH.pkl')
+2025-02-13 20:21:43 RTKMP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/RTKMP.pkl')
+2025-02-13 20:21:43 GTRK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/GTRK.pkl')
+2025-02-13 20:21:43 NLMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/NLMK.pkl')
+2025-02-13 20:21:43 TATNP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/TATNP.pkl')
+2025-02-13 20:21:43 CNTLP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/CNTLP.pkl')
+2025-02-13 20:21:43 BLNG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/BLNG.pkl')
+2025-02-13 20:21:43 ALRS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/ALRS.pkl')
+2025-02-13 20:21:43 GCHE: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/GCHE.pkl')
+2025-02-13 20:21:43 VSMO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/VSMO.pkl')
+2025-02-13 20:21:43 LSNG: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/LSNG.pkl')
+2025-02-13 20:21:43 TRNFP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/TRNFP.pkl')
+2025-02-13 20:21:43 MGNT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MGNT.pkl')
+2025-02-13 20:21:43 RENI: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/RENI.pkl')
+2025-02-13 20:21:43 NKHP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/NKHP.pkl')
+2025-02-13 20:21:43 TGKB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/TGKB.pkl')
+2025-02-13 20:21:43 ROLO: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/ROLO.pkl')
+2025-02-13 20:21:43 IRKT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/IRKT.pkl')
+2025-02-13 20:21:43 MGTSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MGTSP.pkl')
+2025-02-13 20:21:43 MTLR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MTLR.pkl')
+2025-02-13 20:21:43 TGKA: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/TGKA.pkl')
+2025-02-13 20:21:43 MSRS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MSRS.pkl')
+2025-02-13 20:21:43 HEAD: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/HEAD.pkl')
+2025-02-13 20:21:43 RUAL: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/RUAL.pkl')
+2025-02-13 20:21:43 MRKV: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MRKV.pkl')
+2025-02-13 20:21:43 KLSB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/KLSB.pkl')
+2025-02-13 20:21:43 SIBN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SIBN.pkl')
+2025-02-13 20:21:43 SNGS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SNGS.pkl')
+2025-02-13 20:21:43 MSTT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MSTT.pkl')
+2025-02-13 20:21:43 KAZTP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/KAZTP.pkl')
+2025-02-13 20:21:43 DVEC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/DVEC.pkl')
+2025-02-13 20:21:43 NVTK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/NVTK.pkl')
+2025-02-13 20:21:43 RASP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/RASP.pkl')
+2025-02-13 20:21:43 VTBR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/VTBR.pkl')
+2025-02-13 20:21:43 PHOR: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/PHOR.pkl')
+2025-02-13 20:21:43 TTLK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/TTLK.pkl')
+2025-02-13 20:21:43 NKNC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/NKNC.pkl')
+2025-02-13 20:21:43 T: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/T.pkl')
+2025-02-13 20:21:43 KAZT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/KAZT.pkl')
+2025-02-13 20:21:43 AMEZ: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/AMEZ.pkl')
+2025-02-13 20:21:43 MRKU: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MRKU.pkl')
+2025-02-13 20:21:43 TRMK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/TRMK.pkl')
+2025-02-13 20:21:43 MOEX: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MOEX.pkl')
+2025-02-13 20:21:43 SBERP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SBERP.pkl')
+2025-02-13 20:21:43 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-13/X5.pkl')
+2025-02-13 20:21:43 CHMF: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/CHMF.pkl')
+2025-02-13 20:21:43 RTKM: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/RTKM.pkl')
+2025-02-13 20:21:43 SMLT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SMLT.pkl')
+2025-02-13 20:21:43 LNZLP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/LNZLP.pkl')
+2025-02-13 20:21:43 MRKC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MRKC.pkl')
+2025-02-13 20:21:43 MRKP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MRKP.pkl')
+2025-02-13 20:21:43 UNAC: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/UNAC.pkl')
+2025-02-13 20:21:43 KZOSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/KZOSP.pkl')
+2025-02-13 20:21:43 GAZP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/GAZP.pkl')
+2025-02-13 20:21:43 ROSN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/ROSN.pkl')
+2025-02-13 20:21:43 BELU: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/BELU.pkl')
+2025-02-13 20:21:43 ELFV: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/ELFV.pkl')
+2025-02-13 20:21:43 FLOT: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/FLOT.pkl')
+2025-02-13 20:21:43 PIKK: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/PIKK.pkl')
+2025-02-13 20:21:43 LSNGP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/LSNGP.pkl')
+2025-02-13 20:21:43 SVAV: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SVAV.pkl')
+2025-02-13 20:21:43 TGKBP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/TGKBP.pkl')
+2025-02-13 20:21:43 POSI: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/POSI.pkl')
+2025-02-13 20:21:43 KZOS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/KZOS.pkl')
+2025-02-13 20:21:43 MRKS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MRKS.pkl')
+2025-02-13 20:21:43 SNGSP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SNGSP.pkl')
+2025-02-13 20:21:43 MTSS: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MTSS.pkl')
+2025-02-13 20:21:43 MAGN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/MAGN.pkl')
+2025-02-13 20:21:43 PRFN: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/PRFN.pkl')
+2025-02-13 20:21:43 SBER: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/SBER.pkl')
+2025-02-13 20:21:43 BANEP: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/BANEP.pkl')
+2025-02-13 20:21:43 BSPB: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/BSPB.pkl')
+2025-02-13 20:21:43 AQUA: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/AQUA.pkl')
+2025-02-13 20:21:43 RBCM: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1hour/2025-02-13_20/RBCM.pkl')
+2025-02-13 20:21:43 Failed to prepare data to lgbm (No objects to concatenate)
+2025-02-13 20:21:43 End prepare data to lgbm
+2025-02-13 20:21:43 Start lgbm predicting
+2025-02-13 20:21:43 Failed lgbm predicting ([Errno 2] No such file or directory: './data/lgbm/data_lgbm_2025-02-13_20.pkl')
+2025-02-13 20:21:43 End lgbm predicting
+2025-02-13 20:21:43 Start sending msg
+2025-02-13 20:21:43 Failed sending msg ([Errno 2] No such file or directory: './data/result/data_result_2025-02-13_20.pkl')
+2025-02-13 20:21:43 End sending msg
+2025-02-14 10:12:40 Start loading figi data
+2025-02-14 10:12:43 End loading figi data
+2025-02-14 10:12:43 Start loading daily data
+2025-02-14 10:33:15 Start loading figi data
+2025-02-14 10:33:17 End loading figi data
+2025-02-14 10:33:17 Start loading daily data
+2025-02-14 10:33:48 End loading daily data
+2025-02-14 10:33:48 Start preproc daily data
+2025-02-14 10:33:48 X5: failed to preproc daily data (Error len)
+2025-02-14 10:33:48 End preproc daily data
+2025-02-14 10:50:09 Start loading figi data
+2025-02-14 10:50:11 End loading figi data
+2025-02-14 10:50:11 Start loading daily data
+2025-02-14 10:50:42 End loading daily data
+2025-02-14 10:50:42 Start preproc daily data
+2025-02-14 10:50:42 X5: failed to preproc daily data (Error len)
+2025-02-14 10:50:42 End preproc daily data
+2025-02-14 10:50:52 Start loading figi data
+2025-02-14 10:50:55 End loading figi data
+2025-02-14 10:50:55 Start loading daily data
+2025-02-14 10:51:25 End loading daily data
+2025-02-14 10:51:25 Start preproc daily data
+2025-02-14 10:51:26 X5: failed to preproc daily data (Error len)
+2025-02-14 10:51:26 End preproc daily data
+2025-02-14 11:01:06 Start loading hourly data
+2025-02-14 11:01:58 End loading hourly data
+2025-02-14 11:01:58 Start preproc hourly data
+2025-02-14 11:01:59 End preproc hourly data
+2025-02-14 11:01:59 Start prepare data to lgbm
+2025-02-14 11:02:31 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-14/X5.pkl')
+2025-02-14 11:02:40 End prepare data to lgbm
+2025-02-14 11:02:40 Start lgbm predicting
+2025-02-14 11:02:40 End lgbm predicting
+2025-02-14 11:02:40 Start sending msg
+2025-02-14 11:02:41 End sending msg
+2025-02-14 12:01:05 Start loading hourly data
+2025-02-14 12:01:58 End loading hourly data
+2025-02-14 12:01:58 Start preproc hourly data
+2025-02-14 12:01:59 End preproc hourly data
+2025-02-14 12:01:59 Start prepare data to lgbm
+2025-02-14 12:02:30 X5: failed to prepare data to lgbm ([Errno 2] No such file or directory: './data/preproc/1day/2025-02-14/X5.pkl')
+2025-02-14 12:02:40 End prepare data to lgbm
+2025-02-14 12:02:40 Start lgbm predicting
+2025-02-14 12:02:40 End lgbm predicting
+2025-02-14 12:02:40 Start sending msg
+2025-02-14 12:02:40 End sending msg
